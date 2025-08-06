@@ -1,0 +1,15 @@
+--bare
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86_64/qml
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/RoboContent/.qt/rcc/qmake_RoboContent.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/RoboContent/.qt/rcc/RoboContent_raw_qml_0.qrc
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo/RoboContent/Screen01.ui.qml
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo/RoboContent/App.qml
+--json
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/RoboContent_qmllint.json

@@ -1,0 +1,12 @@
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86_64/qml
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/Robo/.qt/rcc/qmake_Robo.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/Robo/.qt/rcc/Robo_raw_qml_0.qrc
+--module
+Robo

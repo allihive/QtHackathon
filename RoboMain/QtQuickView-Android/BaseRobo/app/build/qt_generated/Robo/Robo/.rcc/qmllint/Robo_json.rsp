@@ -1,0 +1,16 @@
+--bare
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/qml
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86/qml
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/Robo/.qt/rcc/qmake_Robo.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/Robo/.qt/rcc/Robo_raw_qml_0.qrc
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Robo/EventListSimulator.qml
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Robo/Constants.qml
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Robo/EventListModel.qml
+--json
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/Robo_qmllint.json

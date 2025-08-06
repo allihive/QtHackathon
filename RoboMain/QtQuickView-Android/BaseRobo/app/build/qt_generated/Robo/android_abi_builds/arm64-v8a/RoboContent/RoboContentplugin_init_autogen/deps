@@ -1,0 +1,10 @@
+RoboContentplugin_init_autogen/timestamp: \
+	/Users/aliceli/Qt/6.9.1/android_arm64_v8a/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/Users/aliceli/Qt/6.9.1/android_arm64_v8a/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/Users/aliceli/Qt/6.9.1/android_arm64_v8a/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/Users/aliceli/Qt/6.9.1/android_arm64_v8a/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/Users/aliceli/Qt/6.9.1/android_arm64_v8a/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/arm64-v8a/RoboContent/RoboContentplugin_RoboContentPlugin_in.cpp \
+	/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/arm64-v8a/RoboContent/RoboContentplugin_init.cpp \
+	/Users/aliceli/RoboMain/QtQuickView-Android/Robo/RoboContent/CMakeLists.txt \
+	/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/bin/cmake

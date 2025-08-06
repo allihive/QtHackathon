@@ -1,0 +1,7 @@
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/Robo/.qt/rcc/qmake_Robo.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/Robo/.qt/rcc/Robo_raw_qml_0.qrc
+/qt/qml/Robo/EventListSimulator.qml
+/qt/qml/Robo/Constants.qml
+/qt/qml/Robo/EventListModel.qml

@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 6
+                    }
+                ],
+                "filePath": "/Users/aliceli/RoboMain/QtQuickView-Android/Robo/RoboContent/App.qml"
+            }
+        ],
+        "moduleId": "RoboContent(RoboContent)"
+    }
+]

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/QtQuick/Studio/Utils/">
+    <file alias="JsonListModel.qml">/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Dependencies/Components/src/imports/utils/JsonListModel.qml</file>
+    <file alias="JsonBackend.qml">/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Dependencies/Components/src/imports/utils/JsonBackend.qml</file>
+    <file alias="ChildListModel.qml">/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Dependencies/Components/src/imports/utils/ChildListModel.qml</file>
+  </qresource>
+</RCC>
+

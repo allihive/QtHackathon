@@ -1,0 +1,6 @@
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/RoboContent/.qt/rcc/qmake_RoboContent.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/RoboContent/.qt/rcc/RoboContent_raw_qml_0.qrc
+/qt/qml/RoboContent/Screen01.ui.qml
+/qt/qml/RoboContent/App.qml

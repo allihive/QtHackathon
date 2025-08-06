@@ -1,0 +1,9 @@
+module RoboContent
+linktarget RoboContentplugin
+optional plugin qml_RoboContent_RoboContentplugin
+classname RoboContentPlugin
+typeinfo RoboContent.qmltypes
+prefer :/qt/qml/RoboContent/
+Screen01 1.0 Screen01.ui.qml
+App 1.0 App.qml
+

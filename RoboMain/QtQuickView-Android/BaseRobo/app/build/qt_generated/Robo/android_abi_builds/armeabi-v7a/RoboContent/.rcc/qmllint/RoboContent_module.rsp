@@ -1,0 +1,12 @@
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/armeabi-v7a/qml
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/armeabi-v7a/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_armv7/qml
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/armeabi-v7a/RoboContent/.qt/rcc/qmake_RoboContent.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/armeabi-v7a/RoboContent/.qt/rcc/RoboContent_raw_qml_0.qrc
+--module
+RoboContent

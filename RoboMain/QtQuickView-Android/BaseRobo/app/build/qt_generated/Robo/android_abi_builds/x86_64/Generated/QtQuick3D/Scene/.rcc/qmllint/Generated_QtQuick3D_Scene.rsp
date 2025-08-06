@@ -1,0 +1,12 @@
+--bare
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86_64/qml
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/Generated/QtQuick3D/Scene/.qt/rcc/qmake_Generated_QtQuick3D_Scene.qrc
+--resource
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/Generated/QtQuick3D/Scene/.qt/rcc/Generated_QtQuick3D_Scene_raw_qml_0.qrc
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo/Generated/QtQuick3D/Scene/Scene.qml

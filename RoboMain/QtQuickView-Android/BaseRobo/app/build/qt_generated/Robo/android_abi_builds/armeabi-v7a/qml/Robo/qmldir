@@ -1,0 +1,10 @@
+module Robo
+linktarget Roboplugin
+optional plugin qml_Robo_Roboplugin
+classname RoboPlugin
+typeinfo Robo.qmltypes
+prefer :/qt/qml/Robo/
+EventListSimulator 1.0 EventListSimulator.qml
+singleton Constants 1.0 Constants.qml
+EventListModel 1.0 EventListModel.qml
+

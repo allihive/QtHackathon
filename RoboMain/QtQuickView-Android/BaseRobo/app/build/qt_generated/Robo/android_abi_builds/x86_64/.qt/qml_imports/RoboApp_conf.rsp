@@ -1,0 +1,11 @@
+-rootPath
+/Users/aliceli/RoboMain/QtQuickView-Android/Robo
+-cmake-output
+-output-file
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/.qt/qml_imports/RoboApp_conf.cmake
+-importPath
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml
+-importPath
+/Users/aliceli/Qt/6.9.1/android_x86_64/qml
+-qrcFiles
+/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/.qt/rcc/configuration.qrc

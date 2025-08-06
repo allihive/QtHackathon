@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RoboContent">
+    <file alias="qmldir">/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/x86_64/qml/RoboContent/qmldir</file>
+  </qresource>
+</RCC>
+

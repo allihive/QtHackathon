@@ -1,0 +1,8 @@
+module Generated.QtQuick3D.Scene
+linktarget Generated_QtQuick3D_Sceneplugin
+optional plugin qml_Generated_QtQuick3D_Scene_Generated_QtQuick3D_Sceneplugin
+classname Generated_QtQuick3D_ScenePlugin
+typeinfo Generated_QtQuick3D_Scene.qmltypes
+prefer :/qt/qml/Generated/QtQuick3D/Scene/
+Scene 1.0 Scene.qml
+
