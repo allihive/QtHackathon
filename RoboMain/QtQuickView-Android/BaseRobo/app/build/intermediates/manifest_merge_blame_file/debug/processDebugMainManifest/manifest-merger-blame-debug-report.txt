@@ -9,14 +9,14 @@
 9        android:targetSdkVersion="35" />
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:10:5-79
-11-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:10:22-76
+11-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/AndroidManifest.xml:10:5-79
+11-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/AndroidManifest.xml:10:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:11:5-67
-12-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:11:22-64
+12-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/AndroidManifest.xml:11:5-67
+12-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/AndroidManifest.xml:11:22-64
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:12:5-81
-13-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:12:22-78
+13-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/AndroidManifest.xml:12:5-81
+13-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/AndroidManifest.xml:12:22-78
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 15
 16    <permission

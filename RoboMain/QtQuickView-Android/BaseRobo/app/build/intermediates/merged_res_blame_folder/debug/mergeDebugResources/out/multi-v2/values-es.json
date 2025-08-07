@@ -4,6 +4,23 @@
             "outputFile": "com.example.baserobo.app-mergeDebugResources-45:/values-es/values-es.xml",
             "map": [
                 {
+                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "139",
+                        "endOffsets": "235"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4764",
+                        "endColumns": "139",
+                        "endOffsets": "4899"
+                    }
+                },
+                {
                     "source": "/Users/aliceli/.gradle/caches/8.13/transforms/912ae900c267891d8029f2ddaf9266a5/transformed/navigation-ui-2.9.3/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2,3",
@@ -71,23 +88,6 @@
                         "startOffsets": "3503,3602,3704,3804,3902,4009,4115,10434",
                         "endColumns": "98,101,99,97,106,105,119,100",
                         "endOffsets": "3597,3699,3799,3897,4004,4110,4230,10530"
-                    }
-                },
-                {
-                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-es/values-es.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "139",
-                        "endOffsets": "235"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4764",
-                        "endColumns": "139",
-                        "endOffsets": "4899"
                     }
                 }
             ]

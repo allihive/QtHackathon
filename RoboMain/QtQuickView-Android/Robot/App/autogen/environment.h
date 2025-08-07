@@ -10,6 +10,10 @@
 
 Q_IMPORT_QML_PLUGIN(Generated_QtQuick3D_ScenePlugin)
 Q_IMPORT_QML_PLUGIN(Generated_QtQuick3D_Flower__1_Plugin)
+Q_IMPORT_QML_PLUGIN(Generated_QtQuick3D_Flowafirst__1_Plugin)
+Q_IMPORT_QML_PLUGIN(Generated_QtQuick3D_FlowasecondPlugin)
+Q_IMPORT_QML_PLUGIN(Generated_QtQuick3D_FlowathirdPlugin)
+Q_IMPORT_QML_PLUGIN(Generated_QtQuick3D_FlowafinishedPlugin)
 Q_IMPORT_QML_PLUGIN(RobotContentPlugin)
 Q_IMPORT_QML_PLUGIN(RobotPlugin)
 

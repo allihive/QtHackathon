@@ -3,3 +3,7 @@
 
 add_subdirectory(Scene)
 add_subdirectory(Flower__1_)
+add_subdirectory(Flowafirst__1_)
+add_subdirectory(Flowasecond)
+add_subdirectory(Flowathird)
+add_subdirectory(Flowafinished)

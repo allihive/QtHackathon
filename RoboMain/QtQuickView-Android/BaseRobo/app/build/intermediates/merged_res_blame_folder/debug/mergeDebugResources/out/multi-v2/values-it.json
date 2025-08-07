@@ -4,6 +4,23 @@
             "outputFile": "com.example.baserobo.app-mergeDebugResources-45:/values-it/values-it.xml",
             "map": [
                 {
+                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "141",
+                        "endOffsets": "237"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4742",
+                        "endColumns": "141",
+                        "endOffsets": "4879"
+                    }
+                },
+                {
                     "source": "/Users/aliceli/.gradle/caches/8.13/transforms/912ae900c267891d8029f2ddaf9266a5/transformed/navigation-ui-2.9.3/res/values-it/values-it.xml",
                     "from": {
                         "startLines": "2,3",
@@ -71,23 +88,6 @@
                         "endLines": "5,33,34,35,36,37,45,46,47,48,49,50,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,114,116,117,118",
                         "endColumns": "12,83,80,76,98,94,98,139,82,63,65,94,84,61,87,61,68,62,72,62,53,120,56,61,53,76,136,84,79,98,85,81,134,80,80,145,90,89,54,50,65,72,79,70,79,74,76,68,76,104,87,88,92,92,73,79,93,50,83,65,83,87,61,63,62,67,114,113,105,108,58,54,79,84,78,81",
                         "endOffsets": "313,3091,3172,3249,3348,3443,4289,4429,4512,4576,4642,4737,4964,5026,5114,5176,5245,5308,5381,5444,5498,5619,5676,5738,5792,5869,6006,6091,6171,6270,6356,6438,6573,6654,6735,6881,6972,7062,7117,7168,7234,7307,7387,7458,7538,7613,7690,7759,7836,7941,8029,8118,8211,8304,8378,8458,8552,8603,8687,8753,8837,8925,8987,9051,9114,9182,9297,9411,9517,9626,9685,9740,10052,10219,10298,10380"
-                    }
-                },
-                {
-                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-it/values-it.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "141",
-                        "endOffsets": "237"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4742",
-                        "endColumns": "141",
-                        "endOffsets": "4879"
                     }
                 }
             ]

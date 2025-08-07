@@ -1423,6 +1423,7 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue_200
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -2152,12 +2153,14 @@ color primary_text_disabled_material_light
 color purple_200
 color purple_500
 color purple_700
+color rain
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color sun
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -3271,7 +3274,8 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
-id button_one
+id button_rain
+id button_sun
 id cache_measures
 id callMeasure
 id cancel_button

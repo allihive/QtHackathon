@@ -10,5 +10,9 @@ add_subdirectory(Dependencies)
 target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE
     Generated_QtQuick3D_Sceneplugin
     Generated_QtQuick3D_Flower__1_plugin
+    Generated_QtQuick3D_Flowafirst__1_plugin
+    Generated_QtQuick3D_Flowasecondplugin
+    Generated_QtQuick3D_Flowathirdplugin
+    Generated_QtQuick3D_Flowafinishedplugin
     RobotContentplugin
     Robotplugin)

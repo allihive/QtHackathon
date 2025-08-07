@@ -21,15 +21,19 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button buttonOne;
+  public final Button buttonRain;
+
+  @NonNull
+  public final Button buttonSun;
 
   @NonNull
   public final FrameLayout homeQmlFrame;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonOne,
-      @NonNull FrameLayout homeQmlFrame) {
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonRain,
+      @NonNull Button buttonSun, @NonNull FrameLayout homeQmlFrame) {
     this.rootView = rootView;
-    this.buttonOne = buttonOne;
+    this.buttonRain = buttonRain;
+    this.buttonSun = buttonSun;
     this.homeQmlFrame = homeQmlFrame;
   }
 
@@ -60,9 +64,15 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.button_one;
-      Button buttonOne = ViewBindings.findChildViewById(rootView, id);
-      if (buttonOne == null) {
+      id = R.id.button_rain;
+      Button buttonRain = ViewBindings.findChildViewById(rootView, id);
+      if (buttonRain == null) {
+        break missingId;
+      }
+
+      id = R.id.button_sun;
+      Button buttonSun = ViewBindings.findChildViewById(rootView, id);
+      if (buttonSun == null) {
         break missingId;
       }
 
@@ -72,7 +82,8 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, buttonOne, homeQmlFrame);
+      return new FragmentHomeBinding((ConstraintLayout) rootView, buttonRain, buttonSun,
+          homeQmlFrame);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
