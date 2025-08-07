@@ -1,7 +1,7 @@
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Robot/.qt/rcc/qmake_Robot.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Robot/.qt/rcc/qmake_Robot.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Robot/.qt/rcc/Robot_raw_qml_0.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Robot/.qt/rcc/Robot_raw_qml_0.qrc
 /qt/qml/Robot/EventListModel.qml
 /qt/qml/Robot/EventListSimulator.qml
 /qt/qml/Robot/Constants.qml

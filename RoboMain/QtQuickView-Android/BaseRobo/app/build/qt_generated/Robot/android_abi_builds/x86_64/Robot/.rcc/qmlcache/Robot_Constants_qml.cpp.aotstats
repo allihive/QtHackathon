@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 34,
-                        "durationMicroseconds": 206,
+                        "durationMicroseconds": 429,
                         "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
                         "functionName": "font",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 39,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 229,
                         "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
                         "functionName": "largeFont",
                         "line": 16
@@ -22,13 +22,13 @@
                     {
                         "codegenSuccessful": false,
                         "column": 19,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"fontPath\".",
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot access value for name relativeFontDirectory",
                         "functionName": "fontPath",
                         "line": 25
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml"
             }
         ],
         "moduleId": "Robot(Robot)"

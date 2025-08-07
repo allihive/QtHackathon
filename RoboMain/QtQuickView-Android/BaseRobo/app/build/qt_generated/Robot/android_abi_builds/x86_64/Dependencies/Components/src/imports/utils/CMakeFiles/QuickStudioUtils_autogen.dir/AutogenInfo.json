@@ -1,43 +1,44 @@
 {
-	"BUILD_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen",
-	"CMAKE_BINARY_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64",
-	"CMAKE_CURRENT_BINARY_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils",
-	"CMAKE_EXECUTABLE" : "/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen",
+	"CMAKE_BINARY_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/CMakeLists.txt",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtilsplugin_QtQuick_Studio_UtilsPlugin_in.cpp"
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/CMakeLists.txt",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtilsplugin_QtQuick_Studio_UtilsPlugin_in.cpp"
 	],
-	"CMAKE_SOURCE_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot",
+	"CMAKE_SOURCE_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/deps",
+	"DEP_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "QuickStudioUtils_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiocsvtablemodel_p.h",
+			"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiocsvtablemodel_p.h",
 			"MU",
 			"EWIEGA46WW/moc_quickstudiocsvtablemodel_p.cpp",
 			null
 		],
 		[
-			"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiofilereader_p.h",
+			"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiofilereader_p.h",
 			"MU",
 			"EWIEGA46WW/moc_quickstudiofilereader_p.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/include",
-	"MOC_COMPILATION_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -56,23 +57,23 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtQml/6.9.1",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtQml/6.9.1/QtQml",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtCore/6.9.1",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtCore/6.9.1/QtCore",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtCore",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/mkspecs/android-clang",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtQml",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtQmlIntegration",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtNetwork",
-		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtGui",
-		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include",
-		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1",
-		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/18/include",
-		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/x86_64-linux-android"
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils",
+		"C:/Qt/6.9.1/android_x86_64/include/QtQml/6.9.1",
+		"C:/Qt/6.9.1/android_x86_64/include/QtQml/6.9.1/QtQml",
+		"C:/Qt/6.9.1/android_x86_64/include/QtCore/6.9.1",
+		"C:/Qt/6.9.1/android_x86_64/include/QtCore/6.9.1/QtCore",
+		"C:/Qt/6.9.1/android_x86_64/include/QtCore",
+		"C:/Qt/6.9.1/android_x86_64/include",
+		"C:/Qt/6.9.1/android_x86_64/mkspecs/android-clang",
+		"C:/Qt/6.9.1/android_x86_64/include/QtQml",
+		"C:/Qt/6.9.1/android_x86_64/include/QtQmlIntegration",
+		"C:/Qt/6.9.1/android_x86_64/include/QtNetwork",
+		"C:/Qt/6.9.1/android_x86_64/include/QtGui",
+		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include",
+		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1",
+		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/18/include",
+		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/x86_64-linux-android"
 	],
 	"MOC_MACRO_NAMES" : 
 	[
@@ -87,44 +88,44 @@
 	"MOC_PATH_PREFIX" : false,
 	"MOC_PREDEFS_CMD" : 
 	[
-		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++",
+		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
 		"-dM",
 		"-E",
 		"-c",
-		"/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp",
 		"--target=x86_64-none-linux-android28"
 	],
-	"MOC_PREDEFS_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0_init.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils_init.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/quickstudioutils_qmltyperegistrations.cpp"
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0_init.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils_init.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/quickstudioutils_qmltyperegistrations.cpp"
 	],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 11,
-	"PARSE_CACHE_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/ParseCache.txt",
-	"QT_MOC_EXECUTABLE" : "/Users/aliceli/Qt/6.9.1/macos/libexec/moc",
-	"QT_UIC_EXECUTABLE" : "/Users/aliceli/Qt/6.9.1/macos/libexec/uic",
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiocsvtablemodel.cpp",
+			"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiocsvtablemodel.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiofilereader.cpp",
+			"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/quickstudiofilereader.cpp",
 			"MU",
 			null
 		]
@@ -133,15 +134,15 @@
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : 
 	[
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0_init.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils_init.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp",
-		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/quickstudioutils_qmltyperegistrations.cpp"
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_QuickStudioUtils_raw_qml_0_init.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.qt/rcc/qrc_qmake_QtQuick_Studio_Utils_init.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp",
+		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/utils/quickstudioutils_qmltyperegistrations.cpp"
 	],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : true,

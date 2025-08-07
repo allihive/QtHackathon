@@ -1,0 +1,8 @@
+module Generated.QtQuick3D.Flowathird
+linktarget Generated_QtQuick3D_Flowathirdplugin
+optional plugin qml_Generated_QtQuick3D_Flowathird_Generated_QtQuick3D_Flowathirdplugin
+classname Generated_QtQuick3D_FlowathirdPlugin
+typeinfo Generated_QtQuick3D_Flowathird.qmltypes
+prefer :/qt/qml/Generated/QtQuick3D/Flowathird/
+Flowathird 1.0 Flowathird.qml
+

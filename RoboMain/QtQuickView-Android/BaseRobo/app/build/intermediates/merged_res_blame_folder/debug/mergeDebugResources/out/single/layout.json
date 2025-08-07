@@ -1,22 +1,22 @@
 [
     {
-        "merged": "com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_home.xml",
-        "source": "com.example.baserobo.app-main-49:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-mergeDebugResources-46:/layout/activity_main.xml",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/activity_main.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-mergeDebugResources-3:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_dashboard.xml",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/fragment_dashboard.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-mergeDebugResources-3:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\fragment_notifications.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_notifications.xml",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/fragment_notifications.xml"
+        "merged": "com.example.baserobo.app-mergeDebugResources-3:/layout/fragment_home.xml",
+        "source": "com.example.baserobo.app-main-6:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_home.xml",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\fragment_home.xml"
     }
 ]

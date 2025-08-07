@@ -1,8 +1,0 @@
-#!/bin/sh
-
-/Users/aliceli/Qt/6.9.1/macos/libexec/qt-android-runner.py \
-    --adb "/Users/aliceli/Library/Android/sdk/platform-tools/adb" \
-    --build-path "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android-build-RobotApp" \
-    --apk "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android-build-RobotApp/RobotApp.apk" \
-    $@
-

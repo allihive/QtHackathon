@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 119,
+                        "durationMicroseconds": 381,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 5
@@ -14,13 +14,13 @@
                     {
                         "codegenSuccessful": true,
                         "column": 13,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 161,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 6
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/App.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/App.qml"
             }
         ],
         "moduleId": "RobotContent(RobotContent)"

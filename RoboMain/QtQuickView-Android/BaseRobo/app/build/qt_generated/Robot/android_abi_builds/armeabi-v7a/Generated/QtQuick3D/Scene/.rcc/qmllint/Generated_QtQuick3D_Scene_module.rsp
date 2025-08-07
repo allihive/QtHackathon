@@ -1,12 +1,12 @@
 -I
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml
 -I
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml
 -I
-/Users/aliceli/Qt/6.9.1/android_armv7/qml
+C:/Qt/6.9.1/android_armv7/qml
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Generated/QtQuick3D/Scene/.qt/rcc/qmake_Generated_QtQuick3D_Scene.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Generated/QtQuick3D/Scene/.qt/rcc/qmake_Generated_QtQuick3D_Scene.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Generated/QtQuick3D/Scene/.qt/rcc/Generated_QtQuick3D_Scene_raw_qml_0.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Generated/QtQuick3D/Scene/.qt/rcc/Generated_QtQuick3D_Scene_raw_qml_0.qrc
 --module
 Generated.QtQuick3D.Scene

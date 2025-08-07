@@ -1,106 +1,106 @@
 [
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/drawable_ic_home_black_24dp.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/drawable/ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/menu_bottom_nav_menu.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/menu/bottom_nav_menu.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/layout_fragment_home.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/navigation_mobile_navigation.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/navigation/mobile_navigation.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/xml_backup_rules.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/layout_fragment_dashboard.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/fragment_dashboard.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/drawable/ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/drawable/ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/layout_fragment_notifications.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/fragment_notifications.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.baserobo.app-debug-47:/layout_fragment_home.xml.flat",
-        "source": "com.example.baserobo.app-main-49:/layout/fragment_home.xml"
+        "merged": "com.example.baserobo.app-debug-4:/layout_fragment_home.xml.flat",
+        "source": "com.example.baserobo.app-main-6:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-debug-47:/layout_activity_main.xml.flat",
-        "source": "/Users/aliceli/.gradle/daemon/8.13/com.example.baserobo.app-main-49:/layout/activity_main.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-debug-4:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.13\\com.example.baserobo.app-main-6:\\layout\\fragment_notifications.xml"
     }
 ]

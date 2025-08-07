@@ -5,7 +5,7 @@ plugins {
 }
 
 QtBuild {
-    qtPath = file("/Users/aliceli/Qt/6.9.1")
+    qtPath = file("C:/Qt/6.9.1")
     projectPath = file("../../Robot")
 }
 android {

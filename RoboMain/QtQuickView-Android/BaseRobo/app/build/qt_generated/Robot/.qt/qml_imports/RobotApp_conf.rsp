@@ -1,11 +1,11 @@
 -rootPath
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot
+C:/QtHackathon/RoboMain/QtQuickView-Android/Robot
 -cmake-output
 -output-file
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/.qt/qml_imports/RobotApp_conf.cmake
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/.qt/qml_imports/RobotApp_conf.cmake
 -importPath
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml
 -importPath
-/Users/aliceli/Qt/6.9.1/android_x86/qml
+C:/Qt/6.9.1/android_x86/qml
 -qrcFiles
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/.qt/rcc/configuration.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/.qt/rcc/configuration.qrc

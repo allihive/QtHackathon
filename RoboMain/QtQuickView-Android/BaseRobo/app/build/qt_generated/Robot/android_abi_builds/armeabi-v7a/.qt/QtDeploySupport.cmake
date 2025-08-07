@@ -34,7 +34,7 @@ endif()
 set(__QT_DEPLOY_SYSTEM_NAME "Android")
 set(__QT_DEPLOY_IS_SHARED_LIBS_BUILD "ON")
 set(__QT_DEPLOY_TOOL "")
-set(__QT_DEPLOY_IMPL_DIR "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/.qt")
+set(__QT_DEPLOY_IMPL_DIR "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/.qt")
 set(__QT_DEPLOY_VERBOSE "")
 set(__QT_CMAKE_EXPORT_NAMESPACE "Qt6")
 set(__QT_DEPLOY_GENERATOR_IS_MULTI_CONFIG "0")
@@ -42,13 +42,13 @@ set(__QT_DEPLOY_ACTIVE_CONFIG "")
 set(__QT_NO_CREATE_VERSIONLESS_FUNCTIONS "")
 set(__QT_DEFAULT_MAJOR_VERSION "6")
 set(__QT_DEPLOY_QT_ADDITIONAL_PACKAGES_PREFIX_PATH "")
-set(__QT_DEPLOY_QT_INSTALL_PREFIX "/Users/aliceli/Qt/6.9.1/android_armv7")
+set(__QT_DEPLOY_QT_INSTALL_PREFIX "C:/Qt/6.9.1/android_armv7")
 set(__QT_DEPLOY_QT_INSTALL_BINS "bin")
 set(__QT_DEPLOY_QT_INSTALL_DATA ".")
 set(__QT_DEPLOY_QT_INSTALL_LIBEXECS "libexec")
 set(__QT_DEPLOY_QT_INSTALL_PLUGINS "plugins")
 set(__QT_DEPLOY_QT_INSTALL_TRANSLATIONS "translations")
-set(__QT_DEPLOY_TARGET_QT_PATHS_PATH "/Users/aliceli/Qt/6.9.1/android_armv7/bin/qtpaths6")
+set(__QT_DEPLOY_TARGET_QT_PATHS_PATH "C:/Qt/6.9.1/android_armv7/bin/qtpaths6.bat")
 set(__QT_DEPLOY_PLUGINS "")
 set(__QT_DEPLOY_MUST_ADJUST_PLUGINS_RPATH "")
 set(__QT_DEPLOY_USE_PATCHELF "")
@@ -58,9 +58,9 @@ set(__QT_DEPLOY_QT_DEBUG_POSTFIX "")
 
 # Define the CMake commands to be made available during deployment.
 set(__qt_deploy_support_files
-    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/.qt/QtDeployTargets.cmake"
-    "/Users/aliceli/Qt/6.9.1/android_armv7/lib/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
-    "/Users/aliceli/Qt/6.9.1/android_armv7/lib/cmake/Qt6Qml/Qt6QmlDeploySupport.cmake"
+    "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/.qt/QtDeployTargets.cmake"
+    "C:/Qt/6.9.1/android_armv7/lib/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
+    "C:/Qt/6.9.1/android_armv7/lib/cmake/Qt6Qml/Qt6QmlDeploySupport.cmake"
 )
 foreach(__qt_deploy_support_file IN LISTS __qt_deploy_support_files)
     include("${__qt_deploy_support_file}")

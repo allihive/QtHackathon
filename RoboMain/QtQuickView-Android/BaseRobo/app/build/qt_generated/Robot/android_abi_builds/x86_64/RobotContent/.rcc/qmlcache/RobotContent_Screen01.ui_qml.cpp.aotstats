@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 3990,
+                        "durationMicroseconds": 18983,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 19
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 13,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 136,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 20
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 145,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 22
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 106,
                         "errorMessage": "",
                         "functionName": "environment",
                         "line": 32
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 26
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 134,
                         "errorMessage": "",
                         "functionName": "backgroundMode",
                         "line": 37
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 94,
                         "errorMessage": "",
                         "functionName": "antialiasingMode",
                         "line": 38
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 34,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "antialiasingQuality",
                         "line": 39
@@ -70,13 +70,13 @@
                     {
                         "codegenSuccessful": true,
                         "column": 41,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "fieldOfViewOrientation",
                         "line": 56
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/Screen01.ui.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/Screen01.ui.qml"
             }
         ],
         "moduleId": "RobotContent(RobotContent)"

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.baserobo.app-mergeDebugResources-45:/values-se/values-se.xml",
+            "outputFile": "com.example.baserobo.app-mergeDebugResources-2:/values-se/values-se.xml",
             "map": [
                 {
-                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/res/values-se/values-se.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\df403bfa4b0563321b6f262950222b39\\transformed\\RobotApp\\res\\values-se\\values-se.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

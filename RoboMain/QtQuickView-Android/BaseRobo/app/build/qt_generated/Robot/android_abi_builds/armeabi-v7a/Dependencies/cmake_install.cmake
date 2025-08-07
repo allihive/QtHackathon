@@ -1,8 +1,8 @@
-# Install script for directory: /Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies
+# Install script for directory: C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/Users/aliceli/Qt/6.9.1/android_armv7")
+  set(CMAKE_INSTALL_PREFIX "C:/Qt/6.9.1/android_armv7")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,11 +39,11 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-objdump")
+  set(CMAKE_OBJDUMP "C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/cmake_install.cmake")
+  include("C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/cmake_install.cmake")
 endif()
 
