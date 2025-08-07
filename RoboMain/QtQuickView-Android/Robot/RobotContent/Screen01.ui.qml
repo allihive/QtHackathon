@@ -208,11 +208,14 @@ Rectangle {
 
             PropertyChanges {
                 target: directionalLight
-                x: 30
-                y: 30
-                pivot.y: 200
-                z: 30
-                brightness: 1.52
+                x: -338.803
+                y: 321.706
+                eulerRotation.x: -150
+                eulerRotation.z: 50
+                eulerRotation.y: 90
+                pivot.y: 0
+                z: 160.09911
+                brightness: 2
             }
         }
     ]
