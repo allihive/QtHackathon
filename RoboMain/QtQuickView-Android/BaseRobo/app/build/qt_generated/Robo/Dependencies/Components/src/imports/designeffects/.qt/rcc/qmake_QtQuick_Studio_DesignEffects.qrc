@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/DesignEffects">
-    <file alias="qmldir">/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/qml/QtQuick/Studio/DesignEffects/qmldir</file>
-  </qresource>
-</RCC>
-

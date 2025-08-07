@@ -1,0 +1,13 @@
+--bare
+-I
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml
+-I
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86/qml
+--resource
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/RobotContent/.qt/rcc/qmake_RobotContent.qrc
+--resource
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/RobotContent/.qt/rcc/RobotContent_raw_qml_0.qrc
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/Screen01.ui.qml
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/App.qml

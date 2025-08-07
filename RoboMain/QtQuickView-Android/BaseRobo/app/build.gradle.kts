@@ -6,7 +6,7 @@ plugins {
 
 QtBuild {
     qtPath = file("/Users/aliceli/Qt/6.9.1")
-    projectPath = file("../../Robo")
+    projectPath = file("../../Robot")
 }
 android {
     namespace = "com.example.baserobo"

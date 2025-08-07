@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/Application">
+    <file alias="qmldir">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml/QtQuick/Studio/Application/qmldir</file>
+  </qresource>
+</RCC>
+

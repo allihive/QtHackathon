@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt-project.org/imports/QtQuick/Studio/Effects">/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/android_abi_builds/armeabi-v7a/qml/QtQuick/Studio/Effects</file>
-
-  </qresource>
-</RCC>

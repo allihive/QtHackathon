@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/EventSystem">
+    <file alias="qmldir">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml/QtQuick/Studio/EventSystem/qmldir</file>
+  </qresource>
+</RCC>
+

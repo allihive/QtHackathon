@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

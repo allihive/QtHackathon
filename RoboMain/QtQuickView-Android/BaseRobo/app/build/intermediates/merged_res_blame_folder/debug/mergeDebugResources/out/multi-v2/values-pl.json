@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-pl/values-pl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "127",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "53",
-                        "startColumns": "4",
-                        "startOffsets": "4807",
-                        "endColumns": "127",
-                        "endOffsets": "4930"
-                    }
-                },
-                {
                     "source": "/Users/aliceli/.gradle/caches/8.13/transforms/912ae900c267891d8029f2ddaf9266a5/transformed/navigation-ui-2.9.3/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3",
@@ -52,6 +35,23 @@
                         "startOffsets": "9745,9853",
                         "endColumns": "107,116",
                         "endOffsets": "9848,9965"
+                    }
+                },
+                {
+                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "127",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "53",
+                        "startColumns": "4",
+                        "startOffsets": "4807",
+                        "endColumns": "127",
+                        "endOffsets": "4930"
                     }
                 },
                 {

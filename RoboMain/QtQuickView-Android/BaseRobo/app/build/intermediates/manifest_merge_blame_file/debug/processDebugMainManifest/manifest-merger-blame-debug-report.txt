@@ -9,14 +9,14 @@
 9        android:targetSdkVersion="35" />
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->[RoboApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/AndroidManifest.xml:10:5-79
-11-->[RoboApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/AndroidManifest.xml:10:22-76
+11-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:10:5-79
+11-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:10:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->[RoboApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/AndroidManifest.xml:11:5-67
-12-->[RoboApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/AndroidManifest.xml:11:22-64
+12-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:11:5-67
+12-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:11:22-64
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->[RoboApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/AndroidManifest.xml:12:5-81
-13-->[RoboApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/AndroidManifest.xml:12:22-78
+13-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:12:5-81
+13-->[RobotApp.aar] /Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/AndroidManifest.xml:12:22-78
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 15
 16    <permission
@@ -31,45 +31,45 @@
 20-->[androidx.core:core:1.16.0] /Users/aliceli/.gradle/caches/8.13/transforms/c994fd72618e5ae0f0db18cefdbc5100/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:5:5-25:19
+22-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:5:5-25:19
 23        android:allowBackup="true"
-23-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:6:9-35
+23-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:6:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.16.0] /Users/aliceli/.gradle/caches/8.13/transforms/c994fd72618e5ae0f0db18cefdbc5100/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 25        android:dataExtractionRules="@xml/data_extraction_rules"
-25-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:7:9-65
+25-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:7:9-65
 26        android:debuggable="true"
 27        android:extractNativeLibs="false"
 28        android:fullBackupContent="@xml/backup_rules"
-28-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:8:9-54
+28-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:8:9-54
 29        android:icon="@mipmap/ic_launcher"
-29-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:9:9-43
+29-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:9:9-43
 30        android:label="@string/app_name"
-30-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:10:9-41
+30-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:10:9-41
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:11:9-54
+31-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:11:9-54
 32        android:supportsRtl="true"
-32-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:12:9-35
+32-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:12:9-35
 33        android:testOnly="true"
 34        android:theme="@style/Theme.BaseRobo" >
-34-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:13:9-46
+34-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:13:9-46
 35        <activity
-35-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:15:9-24:20
+35-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:15:9-24:20
 36            android:name="com.example.baserobo.MainActivity"
-36-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:16:13-41
+36-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:16:13-41
 37            android:exported="true"
-37-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:17:13-36
+37-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:17:13-36
 38            android:label="@string/app_name" >
-38-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:18:13-45
+38-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:18:13-45
 39            <intent-filter>
-39-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:19:13-23:29
+39-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:19:13-23:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:20:17-69
-40-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:20:25-66
+40-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:20:17-69
+40-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:20:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:22:17-77
-42-->/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:22:27-74
+42-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:22:17-77
+42-->/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/AndroidManifest.xml:22:27-74
 43            </intent-filter>
 44        </activity>
 45

@@ -11615,51 +11615,51 @@
         <attr format="reference" name="navGraph"/>
     </declare-styleable><declare-styleable name="NavInclude">
         <attr format="reference" name="graph"/>
-    </declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="RoboApp.aar$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="RoboApp.aar" from-dependency="true" generated-set="RoboApp.aar$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res"><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-ro/values-ro.xml" qualifiers="ro"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Aplicaţia dumneavoastră a întâmpinat o eroare fatală şi nu poate continua.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-ru/values-ru.xml" qualifiers="ru"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Ваше приложение столкнулось с фатальной ошибкой и не может более работать.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string name="fatal_error_msg" ns2:ignore="UnusedResources">您的應用程序遇到一個致命錯誤導致它無法繼續。</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-it/values-it.xml" qualifiers="it"><string name="fatal_error_msg" ns2:ignore="UnusedResources">L\'applicazione ha provocato un errore grave e non puo\' continuare.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string name="fatal_error_msg" ns2:ignore="UnusedResources">您的应用程序遇到一个致命错误导致它无法继续。</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-in/values-in.xml" qualifiers="in"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Aplikasi Anda mengalami kesalahan fatal dan tidak dapat melanjutkan.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-ja/values-ja.xml" qualifiers="ja"><string name="fatal_error_msg" ns2:ignore="UnusedResources">アプリケーションで致命的なエラーが発生したため続行できません。</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-el/values-el.xml" qualifiers="el"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Παρουσιάστηκε ένα κρίσιμο σφάλμα και η εφαρμογή δεν μπορεί να συνεχίσει.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-ms/values-ms.xml" qualifiers="ms"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Aplikasi anda menemui ralat muat dan tidak boleh diteruskan.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Sua aplicação encontrou um erro fatal e não pode continuar.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values/values.xml" qualifiers=""><array name="bundled_libs">
+    </declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="RobotApp.aar$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="RobotApp.aar" from-dependency="true" generated-set="RobotApp.aar$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res"><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-ro/values-ro.xml" qualifiers="ro"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Aplicaţia dumneavoastră a întâmpinat o eroare fatală şi nu poate continua.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-ru/values-ru.xml" qualifiers="ru"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Ваше приложение столкнулось с фатальной ошибкой и не может более работать.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string name="fatal_error_msg" ns2:ignore="UnusedResources">您的應用程序遇到一個致命錯誤導致它無法繼續。</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-it/values-it.xml" qualifiers="it"><string name="fatal_error_msg" ns2:ignore="UnusedResources">L\'applicazione ha provocato un errore grave e non puo\' continuare.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string name="fatal_error_msg" ns2:ignore="UnusedResources">您的应用程序遇到一个致命错误导致它无法继续。</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-in/values-in.xml" qualifiers="in"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Aplikasi Anda mengalami kesalahan fatal dan tidak dapat melanjutkan.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-ja/values-ja.xml" qualifiers="ja"><string name="fatal_error_msg" ns2:ignore="UnusedResources">アプリケーションで致命的なエラーが発生したため続行できません。</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-el/values-el.xml" qualifiers="el"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Παρουσιάστηκε ένα κρίσιμο σφάλμα και η εφαρμογή δεν μπορεί να συνεχίσει.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-ms/values-ms.xml" qualifiers="ms"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Aplikasi anda menemui ralat muat dan tidak boleh diteruskan.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Sua aplicação encontrou um erro fatal e não pode continuar.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values/values.xml" qualifiers=""><array name="bundled_libs">
     </array><array name="load_local_libs">
-        <item>x86_64;libplugins_platforms_qtforandroid_x86_64.so</item>
-        <item>armeabi-v7a;libplugins_platforms_qtforandroid_armeabi-v7a.so</item>
-        <item>x86;libplugins_platforms_qtforandroid_x86.so</item>
         <item>arm64-v8a;libplugins_platforms_qtforandroid_arm64-v8a.so</item>
+        <item>armeabi-v7a;libplugins_platforms_qtforandroid_armeabi-v7a.so</item>
+        <item>x86_64;libplugins_platforms_qtforandroid_x86_64.so</item>
+        <item>x86;libplugins_platforms_qtforandroid_x86.so</item>
     </array><array name="qt_libs">
-        <item>x86_64;c++_shared</item>
-        <item>x86_64;Qt6Core_x86_64</item>
-        <item>x86_64;Qt6Gui_x86_64</item>
-        <item>x86_64;Qt6Network_x86_64</item>
-        <item>x86_64;Qt6OpenGL_x86_64</item>
-        <item>x86_64;Qt6Qml_x86_64</item>
-        <item>x86_64;Qt6QmlModels_x86_64</item>
-        <item>x86_64;Qt6QmlWorkerScript_x86_64</item>
-        <item>x86_64;Qt6QmlMeta_x86_64</item>
-        <item>x86_64;Qt6Quick_x86_64</item>
-        <item>x86_64;Qt6Widgets_x86_64</item>
-        <item>x86_64;Qt6Quick3DUtils_x86_64</item>
-        <item>x86_64;Qt6ShaderTools_x86_64</item>
-        <item>x86_64;Qt6Quick3DRuntimeRender_x86_64</item>
-        <item>x86_64;Qt6Quick3D_x86_64</item>
-        <item>x86_64;Qt6QuickTimeline_x86_64</item>
-        <item>x86_64;Qt6QuickShapes_x86_64</item>
-        <item>x86_64;Qt6QuickTemplates2_x86_64</item>
-        <item>x86_64;Qt6QuickControls2Impl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2_x86_64</item>
-        <item>x86_64;Qt6QuickControls2FusionStyleImpl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2Fusion_x86_64</item>
-        <item>x86_64;Qt6QuickControls2MaterialStyleImpl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2Material_x86_64</item>
-        <item>x86_64;Qt6QuickControls2ImagineStyleImpl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2Imagine_x86_64</item>
-        <item>x86_64;Qt6QuickControls2UniversalStyleImpl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2Universal_x86_64</item>
-        <item>x86_64;Qt6QuickControls2FluentWinUI3StyleImpl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2BasicStyleImpl_x86_64</item>
-        <item>x86_64;Qt6QuickControls2Basic_x86_64</item>
-        <item>x86_64;Qt6QuickEffects_x86_64</item>
-        <item>x86_64;Qt6QuickLayouts_x86_64</item>
-        <item>x86_64;Qt6LabsQmlModels_x86_64</item>
-        <item>x86_64;Qt6Quick3DEffects_x86_64</item>
-        <item>x86_64;Qt6Concurrent_x86_64</item>
-        <item>x86_64;Qt6Quick3DHelpers_x86_64</item>
-        <item>x86_64;Qt6Quick3DHelpersImpl_x86_64</item>
+        <item>arm64-v8a;c++_shared</item>
+        <item>arm64-v8a;Qt6Core_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Gui_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Network_arm64-v8a</item>
+        <item>arm64-v8a;Qt6OpenGL_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Qml_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QmlModels_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QmlWorkerScript_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QmlMeta_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Widgets_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick3DUtils_arm64-v8a</item>
+        <item>arm64-v8a;Qt6ShaderTools_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick3DRuntimeRender_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick3D_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickTimeline_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickTemplates2_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2Impl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2FusionStyleImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2Fusion_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2MaterialStyleImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2Material_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2ImagineStyleImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2Imagine_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2UniversalStyleImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2Universal_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2FluentWinUI3StyleImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2BasicStyleImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickControls2Basic_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickEffects_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickLayouts_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickShapes_arm64-v8a</item>
+        <item>arm64-v8a;Qt6LabsQmlModels_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick3DEffects_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Concurrent_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick3DHelpers_arm64-v8a</item>
+        <item>arm64-v8a;Qt6Quick3DHelpersImpl_arm64-v8a</item>
         <item>armeabi-v7a;c++_shared</item>
         <item>armeabi-v7a;Qt6Core_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6Gui_armeabi-v7a</item>
@@ -11676,7 +11676,6 @@
         <item>armeabi-v7a;Qt6Quick3DRuntimeRender_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6Quick3D_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6QuickTimeline_armeabi-v7a</item>
-        <item>armeabi-v7a;Qt6QuickShapes_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6QuickTemplates2_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6QuickControls2Impl_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6QuickControls2_armeabi-v7a</item>
@@ -11693,11 +11692,50 @@
         <item>armeabi-v7a;Qt6QuickControls2Basic_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6QuickEffects_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6QuickLayouts_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QuickShapes_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6LabsQmlModels_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6Quick3DEffects_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6Concurrent_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6Quick3DHelpers_armeabi-v7a</item>
         <item>armeabi-v7a;Qt6Quick3DHelpersImpl_armeabi-v7a</item>
+        <item>x86_64;c++_shared</item>
+        <item>x86_64;Qt6Core_x86_64</item>
+        <item>x86_64;Qt6Gui_x86_64</item>
+        <item>x86_64;Qt6Network_x86_64</item>
+        <item>x86_64;Qt6OpenGL_x86_64</item>
+        <item>x86_64;Qt6Qml_x86_64</item>
+        <item>x86_64;Qt6QmlModels_x86_64</item>
+        <item>x86_64;Qt6QmlWorkerScript_x86_64</item>
+        <item>x86_64;Qt6QmlMeta_x86_64</item>
+        <item>x86_64;Qt6Quick_x86_64</item>
+        <item>x86_64;Qt6Widgets_x86_64</item>
+        <item>x86_64;Qt6Quick3DUtils_x86_64</item>
+        <item>x86_64;Qt6ShaderTools_x86_64</item>
+        <item>x86_64;Qt6Quick3DRuntimeRender_x86_64</item>
+        <item>x86_64;Qt6Quick3D_x86_64</item>
+        <item>x86_64;Qt6QuickTimeline_x86_64</item>
+        <item>x86_64;Qt6QuickTemplates2_x86_64</item>
+        <item>x86_64;Qt6QuickControls2Impl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2_x86_64</item>
+        <item>x86_64;Qt6QuickControls2FusionStyleImpl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2Fusion_x86_64</item>
+        <item>x86_64;Qt6QuickControls2MaterialStyleImpl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2Material_x86_64</item>
+        <item>x86_64;Qt6QuickControls2ImagineStyleImpl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2Imagine_x86_64</item>
+        <item>x86_64;Qt6QuickControls2UniversalStyleImpl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2Universal_x86_64</item>
+        <item>x86_64;Qt6QuickControls2FluentWinUI3StyleImpl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2BasicStyleImpl_x86_64</item>
+        <item>x86_64;Qt6QuickControls2Basic_x86_64</item>
+        <item>x86_64;Qt6QuickEffects_x86_64</item>
+        <item>x86_64;Qt6QuickLayouts_x86_64</item>
+        <item>x86_64;Qt6QuickShapes_x86_64</item>
+        <item>x86_64;Qt6LabsQmlModels_x86_64</item>
+        <item>x86_64;Qt6Quick3DEffects_x86_64</item>
+        <item>x86_64;Qt6Concurrent_x86_64</item>
+        <item>x86_64;Qt6Quick3DHelpers_x86_64</item>
+        <item>x86_64;Qt6Quick3DHelpersImpl_x86_64</item>
         <item>x86;c++_shared</item>
         <item>x86;Qt6Core_x86</item>
         <item>x86;Qt6Gui_x86</item>
@@ -11716,7 +11754,6 @@
         <item>x86;Qt6Quick3DRuntimeRender_x86</item>
         <item>x86;Qt6Quick3D_x86</item>
         <item>x86;Qt6QuickTimeline_x86</item>
-        <item>x86;Qt6QuickShapes_x86</item>
         <item>x86;Qt6QuickTemplates2_x86</item>
         <item>x86;Qt6QuickControls2Impl_x86</item>
         <item>x86;Qt6QuickControls2_x86</item>
@@ -11733,50 +11770,13 @@
         <item>x86;Qt6QuickControls2Basic_x86</item>
         <item>x86;Qt6QuickEffects_x86</item>
         <item>x86;Qt6QuickLayouts_x86</item>
+        <item>x86;Qt6QuickShapes_x86</item>
         <item>x86;Qt6LabsQmlModels_x86</item>
         <item>x86;Qt6Quick3DEffects_x86</item>
         <item>x86;Qt6Concurrent_x86</item>
         <item>x86;Qt6Quick3DHelpers_x86</item>
         <item>x86;Qt6Quick3DHelpersImpl_x86</item>
-        <item>arm64-v8a;c++_shared</item>
-        <item>arm64-v8a;Qt6Core_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Gui_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Network_arm64-v8a</item>
-        <item>arm64-v8a;Qt6OpenGL_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Qml_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QmlModels_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QmlWorkerScript_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QmlMeta_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Widgets_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick3DUtils_arm64-v8a</item>
-        <item>arm64-v8a;Qt6ShaderTools_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick3DRuntimeRender_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick3D_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickTimeline_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickShapes_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickTemplates2_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2Impl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2FusionStyleImpl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2Fusion_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2MaterialStyleImpl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2Material_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2ImagineStyleImpl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2Imagine_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2UniversalStyleImpl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2Universal_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2FluentWinUI3StyleImpl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2BasicStyleImpl_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickControls2Basic_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickEffects_arm64-v8a</item>
-        <item>arm64-v8a;Qt6QuickLayouts_arm64-v8a</item>
-        <item>arm64-v8a;Qt6LabsQmlModels_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick3DEffects_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Concurrent_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick3DHelpers_arm64-v8a</item>
-        <item>arm64-v8a;Qt6Quick3DHelpersImpl_arm64-v8a</item>
-    </array><string name="bundle_local_qt_libs">1</string><string name="fatal_error_msg" ns2:ignore="UnusedResources">Your application encountered a fatal error and cannot continue.</string><string name="system_libs_prefix"/><string name="use_local_qt_libs">1</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-pl/values-pl.xml" qualifiers="pl"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Wystąpił błąd krytyczny. Aplikacja zostanie zamknięta.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-se/values-se.xml" qualifiers="se"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Vaša aplikacija je naišla na fatalnu grešku i ne može nastaviti sa radom.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-fa/values-fa.xml" qualifiers="fa"><string name="fatal_error_msg" ns2:ignore="UnusedResources">خطایی اساسی در برنامه‌تان رخ داد و اجرای برنامه نمی‌تواند ادامه یابد.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-fr/values-fr.xml" qualifiers="fr"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Votre application a rencontré une erreur fatale et ne peut pas continuer.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-es/values-es.xml" qualifiers="es"><string name="fatal_error_msg" ns2:ignore="UnusedResources">La aplicación ha causado un error grave y no es posible continuar.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-et/values-et.xml" qualifiers="et"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Programmiga juhtus fataalne viga.\nKahjuks ei saa jätkata.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-nl/values-nl.xml" qualifiers="nl"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Er is een fatale fout in de applicatie opgetreden. De applicatie kan niet verder gaan.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-nb/values-nb.xml" qualifiers="nb"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Applikasjonen fikk en kritisk feil og kan ikke fortsette</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-de/values-de.xml" qualifiers="de"><string name="fatal_error_msg" ns2:ignore="UnusedResources">In Ihrer Anwendung ist ein schwerwiegender Fehler aufgetreten, sie kann nicht fortgesetzt werden</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/7daf9480ad3b331ecc8a306c883c8e72/transformed/RoboApp/res/values-ar/values-ar.xml" qualifiers="ar"><string name="fatal_error_msg" ns2:ignore="UnusedResources">تعرّض تطبيقك لخطأ جسيم ولا يمكنه المتابعة.</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res"><file name="ic_launcher" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_dashboard_black_24dp" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_notifications_black_24dp" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_notifications_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_home_black_24dp" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_home_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="fragment_dashboard" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/fragment_dashboard.xml" qualifiers="" type="layout"/><file name="fragment_home" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/fragment_home.xml" qualifiers="" type="layout"/><file name="fragment_notifications" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/fragment_notifications.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values-night/themes.xml" qualifiers="night-v8"><style name="Theme.BaseRobo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </array><string name="bundle_local_qt_libs">1</string><string name="fatal_error_msg" ns2:ignore="UnusedResources">Your application encountered a fatal error and cannot continue.</string><string name="system_libs_prefix"/><string name="use_local_qt_libs">1</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-pl/values-pl.xml" qualifiers="pl"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Wystąpił błąd krytyczny. Aplikacja zostanie zamknięta.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-se/values-se.xml" qualifiers="se"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Vaša aplikacija je naišla na fatalnu grešku i ne može nastaviti sa radom.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-fa/values-fa.xml" qualifiers="fa"><string name="fatal_error_msg" ns2:ignore="UnusedResources">خطایی اساسی در برنامه‌تان رخ داد و اجرای برنامه نمی‌تواند ادامه یابد.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-fr/values-fr.xml" qualifiers="fr"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Votre application a rencontré une erreur fatale et ne peut pas continuer.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-es/values-es.xml" qualifiers="es"><string name="fatal_error_msg" ns2:ignore="UnusedResources">La aplicación ha causado un error grave y no es posible continuar.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-et/values-et.xml" qualifiers="et"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Programmiga juhtus fataalne viga.\nKahjuks ei saa jätkata.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-nl/values-nl.xml" qualifiers="nl"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Er is een fatale fout in de applicatie opgetreden. De applicatie kan niet verder gaan.</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-nb/values-nb.xml" qualifiers="nb"><string name="fatal_error_msg" ns2:ignore="UnusedResources">Applikasjonen fikk en kritisk feil og kan ikke fortsette</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-de/values-de.xml" qualifiers="de"><string name="fatal_error_msg" ns2:ignore="UnusedResources">In Ihrer Anwendung ist ein schwerwiegender Fehler aufgetreten, sie kann nicht fortgesetzt werden</string></file><file path="/Users/aliceli/.gradle/caches/8.13/transforms/8495b1d4738434ab1d919e37f0340cb8/transformed/RobotApp/res/values-ar/values-ar.xml" qualifiers="ar"><string name="fatal_error_msg" ns2:ignore="UnusedResources">تعرّض تطبيقك لخطأ جسيم ولا يمكنه المتابعة.</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res"><file name="ic_launcher" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_dashboard_black_24dp" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_notifications_black_24dp" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_notifications_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_home_black_24dp" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_home_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/drawable/ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="fragment_dashboard" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/fragment_dashboard.xml" qualifiers="" type="layout"/><file name="fragment_home" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/fragment_home.xml" qualifiers="" type="layout"/><file name="fragment_notifications" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/fragment_notifications.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values-night/themes.xml" qualifiers="night-v8"><style name="Theme.BaseRobo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -11788,7 +11788,7 @@
         
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         
-    </style></file><file path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color></file><file path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/themes.xml" qualifiers=""><style name="Theme.BaseRobo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </style></file><file path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color></file><file path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/themes.xml" qualifiers=""><style name="Theme.BaseRobo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -11800,7 +11800,7 @@
         
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         
-    </style></file><file path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">BaseRobo</string><string name="title_home">Home</string><string name="title_dashboard">Dashboard</string><string name="title_notifications">Notifications</string></file><file name="mobile_navigation" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/navigation/mobile_navigation.xml" qualifiers="" type="navigation"/><file name="backup_rules" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/xml/backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/xml/data_extraction_rules.xml" qualifiers="" type="xml"/><file name="bottom_nav_menu" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/menu/bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-anydpi/ic_launcher.xml" qualifiers="anydpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" qualifiers="anydpi-v4" type="mipmap"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/generated/res/resValues/debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
+    </style></file><file path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">BaseRobo</string><string name="title_home">Home</string><string name="title_dashboard">Dashboard</string><string name="title_notifications">Notifications</string></file><file name="mobile_navigation" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/navigation/mobile_navigation.xml" qualifiers="" type="navigation"/><file name="backup_rules" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/xml/backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/xml/data_extraction_rules.xml" qualifiers="" type="xml"/><file name="bottom_nav_menu" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/menu/bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-anydpi/ic_launcher.xml" qualifiers="anydpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" qualifiers="anydpi-v4" type="mipmap"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/generated/res/resValues/debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
         <attr format="reference" name="buttonPanelSideLayout"/>
         <attr format="reference" name="listLayout"/>

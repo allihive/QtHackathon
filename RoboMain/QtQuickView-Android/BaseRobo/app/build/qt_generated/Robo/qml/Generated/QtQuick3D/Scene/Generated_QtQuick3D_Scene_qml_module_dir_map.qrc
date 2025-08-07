@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/Generated/QtQuick3D/Scene">/Users/aliceli/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robo/qml/Generated/QtQuick3D/Scene</file>
-
-  </qresource>
-</RCC>

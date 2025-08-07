@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/RoboContent/">
-    <file alias="Screen01.ui.qml">/Users/aliceli/RoboMain/QtQuickView-Android/Robo/RoboContent/Screen01.ui.qml</file>
-    <file alias="App.qml">/Users/aliceli/RoboMain/QtQuickView-Android/Robo/RoboContent/App.qml</file>
-  </qresource>
-</RCC>
-

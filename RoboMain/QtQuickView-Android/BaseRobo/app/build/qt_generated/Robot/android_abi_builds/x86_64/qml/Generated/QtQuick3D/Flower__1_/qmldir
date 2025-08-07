@@ -1,0 +1,8 @@
+module Generated.QtQuick3D.Flower__1_
+linktarget Generated_QtQuick3D_Flower__1_plugin
+optional plugin qml_Generated_QtQuick3D_Flower__1__Generated_QtQuick3D_Flower__1_plugin
+classname Generated_QtQuick3D_Flower__1_Plugin
+typeinfo Generated_QtQuick3D_Flower__1_.qmltypes
+prefer :/qt/qml/Generated/QtQuick3D/Flower__1_/
+Flower__1_ 1.0 Flower__1_.qml
+

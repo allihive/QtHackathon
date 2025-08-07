@@ -1,0 +1,14 @@
+--bare
+-I
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml
+-I
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86/qml
+--resource
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/Robot/.qt/rcc/qmake_Robot.qrc
+--resource
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/Robot/.qt/rcc/Robot_raw_qml_0.qrc
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListModel.qml
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListSimulator.qml
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml

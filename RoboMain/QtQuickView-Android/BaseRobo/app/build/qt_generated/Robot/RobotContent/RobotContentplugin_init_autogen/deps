@@ -1,0 +1,10 @@
+RobotContentplugin_init_autogen/timestamp: \
+	/Users/aliceli/Qt/6.9.1/android_x86/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/Users/aliceli/Qt/6.9.1/android_x86/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/Users/aliceli/Qt/6.9.1/android_x86/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/Users/aliceli/Qt/6.9.1/android_x86/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/Users/aliceli/Qt/6.9.1/android_x86/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/RobotContent/RobotContentplugin_RobotContentPlugin_in.cpp \
+	/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/RobotContent/RobotContentplugin_init.cpp \
+	/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/CMakeLists.txt \
+	/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/bin/cmake

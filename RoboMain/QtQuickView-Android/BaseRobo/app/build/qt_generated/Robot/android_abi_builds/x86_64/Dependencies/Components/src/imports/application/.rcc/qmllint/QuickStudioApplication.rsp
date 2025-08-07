@@ -1,0 +1,9 @@
+--bare
+-I
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml
+-I
+/Users/aliceli/Qt/6.9.1/android_x86_64/qml
+--resource
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc

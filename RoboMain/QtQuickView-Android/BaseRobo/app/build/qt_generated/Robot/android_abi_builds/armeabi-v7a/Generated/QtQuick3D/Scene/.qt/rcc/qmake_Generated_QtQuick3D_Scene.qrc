@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Generated/QtQuick3D/Scene">
+    <file alias="qmldir">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml/Generated/QtQuick3D/Scene/qmldir</file>
+  </qresource>
+</RCC>
+
