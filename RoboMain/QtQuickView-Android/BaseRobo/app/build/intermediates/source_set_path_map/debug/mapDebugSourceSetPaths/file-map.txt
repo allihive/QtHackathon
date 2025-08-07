@@ -28,9 +28,9 @@ com.example.baserobo.app-viewpager2-1.0.0-26 /Users/aliceli/.gradle/caches/8.13/
 com.example.baserobo.app-drawerlayout-1.1.1-27 /Users/aliceli/.gradle/caches/8.13/transforms/9d6fc5d7d2f9aac81aade734696043b5/transformed/drawerlayout-1.1.1/res
 com.example.baserobo.app-navigation-ui-ktx-2.9.3-28 /Users/aliceli/.gradle/caches/8.13/transforms/a2ad23ba5b817ab7e7f7f76211c42133/transformed/navigation-ui-ktx-2.9.3/res
 com.example.baserobo.app-lifecycle-livedata-core-ktx-2.9.0-29 /Users/aliceli/.gradle/caches/8.13/transforms/aaa7c9de4cf356c4e08dd5aa37a7edf1/transformed/lifecycle-livedata-core-ktx-2.9.0/res
-com.example.baserobo.app-RobotApp-30 /Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/res
-com.example.baserobo.app-emoji2-views-helper-1.3.0-31 /Users/aliceli/.gradle/caches/8.13/transforms/ae52d1279bdb5ff8c7beb2940f8c73ad/transformed/emoji2-views-helper-1.3.0/res
-com.example.baserobo.app-navigation-runtime-release-32 /Users/aliceli/.gradle/caches/8.13/transforms/b4b3ceef30e28217bba5369ce0d9696b/transformed/navigation-runtime-release/res
+com.example.baserobo.app-emoji2-views-helper-1.3.0-30 /Users/aliceli/.gradle/caches/8.13/transforms/ae52d1279bdb5ff8c7beb2940f8c73ad/transformed/emoji2-views-helper-1.3.0/res
+com.example.baserobo.app-navigation-runtime-release-31 /Users/aliceli/.gradle/caches/8.13/transforms/b4b3ceef30e28217bba5369ce0d9696b/transformed/navigation-runtime-release/res
+com.example.baserobo.app-RobotApp-32 /Users/aliceli/.gradle/caches/8.13/transforms/b924cdd8e8c0b57fb77321f225d0b477/transformed/RobotApp/res
 com.example.baserobo.app-savedstate-ktx-1.3.0-33 /Users/aliceli/.gradle/caches/8.13/transforms/c7bd28d07545d3add065f91173868b3c/transformed/savedstate-ktx-1.3.0/res
 com.example.baserobo.app-core-1.16.0-34 /Users/aliceli/.gradle/caches/8.13/transforms/c994fd72618e5ae0f0db18cefdbc5100/transformed/core-1.16.0/res
 com.example.baserobo.app-activity-ktx-1.8.0-35 /Users/aliceli/.gradle/caches/8.13/transforms/d0db7356fd3adb44ec5305f95ab50307/transformed/activity-ktx-1.8.0/res

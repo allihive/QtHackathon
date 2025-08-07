@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 376,
+                        "durationMicroseconds": 866,
                         "errorMessage": "Cannot generate efficient code for iterator on non-list type",
                         "functionName": "onJsonObjectChanged",
                         "line": 55
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 107,
+                        "durationMicroseconds": 248,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "updateJSON",
                         "line": 65
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 267,
+                        "durationMicroseconds": 797,
                         "errorMessage": "Cannot generate efficient code for iterator on non-list type",
                         "functionName": "invalidateChildModels",
                         "line": 80
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "filePath",
                         "line": 50
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "onContentChanged",
                         "line": 51
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 39,
                         "errorMessage": "",
                         "functionName": "onCompleted",
                         "line": 89

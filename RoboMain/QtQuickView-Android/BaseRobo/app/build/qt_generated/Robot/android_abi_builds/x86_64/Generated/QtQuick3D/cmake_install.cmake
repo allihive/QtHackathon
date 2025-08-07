@@ -52,3 +52,23 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flower__1_/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowafirst__1_/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowasecond/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowafinished/cmake_install.cmake")
+endif()
+

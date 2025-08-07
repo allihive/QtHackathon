@@ -14,12 +14,18 @@ import QtQuick3D.Helpers
 import Robot
 import Generated.QtQuick3D.Scene
 import Generated.QtQuick3D.Flower__1_
+import Generated.QtQuick3D.Flowafirst__1_
+import Generated.QtQuick3D.Flowasecond
+import Generated.QtQuick3D.Flowathird
+import Generated.QtQuick3D.Flowafinished
 
 Rectangle {
+    id: rectangle
     width: Constants.width
     height: Constants.height
 
     color: Constants.backgroundColor
+    property int flowerState: 0
 
     View3D {
         id: extendedView3D
@@ -52,19 +58,54 @@ Rectangle {
                 id: sceneCamera
                 x: 102.903
                 y: 179.004
+                pivot.x: 0
+                pivot.z: 350
+                pivot.y: 100
                 eulerRotation.y: 30
                 fieldOfViewOrientation: PerspectiveCamera.Horizontal
                 z: 116.97166
             }
 
-            Flower__1_ {
-                id: flower__1_
-                x: -64.743
-                y: -67.177
+            Flowafinished {
+                id: flowafinished
+                x: -132.162
                 scale.z: 10
                 scale.y: 10
                 scale.x: 10
-                z: -171.98117
+                visible: false
+                z: -272.50958
+            }
+
+            Flowafirst__1_ {
+                id: flowafirst__1_
+                x: -132.268
+                y: -13.58
+                scale.z: 10
+                scale.y: 10
+                scale.x: 10
+                z: -263.89462
+            }
+
+            Flowasecond {
+                id: flowasecond
+                x: -126.978
+                y: -12.046
+                visible: false
+                scale.z: 10
+                scale.y: 10
+                scale.x: 10
+                z: -257.73355
+            }
+
+            Flowathird {
+                id: flowathird
+                x: -127.335
+                y: -10.637
+                visible: false
+                scale.z: 10
+                scale.y: 10
+                scale.x: 10
+                z: -255.4046
             }
         }
     }
@@ -77,6 +118,104 @@ Rectangle {
             baseColor: "#4aee45"
         }
     }
+
+    StateGroup {
+        id: newStateGroup
+    }
+
+    StateGroup {
+        id: newStateGroup1
+    }
+    states: [
+
+        State {
+            name: "Flower1"
+            when: rectangle.flowerState == 1
+
+            PropertyChanges {
+                target: flowafirst__1_
+                visible: false
+            }
+            PropertyChanges {
+                target: flowasecond
+                visible: true
+            }
+            PropertyChanges {
+                target: flowathird
+                visible: false
+            }
+            PropertyChanges {
+                target: flowafinished
+                visible: false
+            }
+
+            PropertyChanges {
+                target: sceneCamera
+                frustumCullingEnabled: false
+            }
+        },
+
+        State {
+            name: "Flower2"
+            when: rectangle.flowerState == 2
+
+            PropertyChanges {
+                target: flowafirst__1_
+                visible: false
+            }
+            PropertyChanges {
+                target: flowasecond
+                visible: false
+            }
+            PropertyChanges {
+                target: flowathird
+                visible: true
+            }
+            PropertyChanges {
+                target: flowafinished
+                visible: false
+                eulerRotation.x: 20
+            }
+        },
+
+        State {
+            name: "Flower3"
+            when: rectangle.flowerState == 3
+
+            PropertyChanges {
+                target: flowafirst__1_
+                visible: false
+            }
+            PropertyChanges {
+                target: flowasecond
+                visible: false
+            }
+            PropertyChanges {
+                target: flowathird
+                visible: false
+            }
+            PropertyChanges {
+                target: flowafinished
+                x: -121.291
+                y: -21.22
+                visible: true
+                scale.z: 10
+                scale.y: 10
+                scale.x: 10
+                eulerRotation.x: 20
+                z: -283.15918
+            }
+
+            PropertyChanges {
+                target: directionalLight
+                x: 30
+                y: 30
+                pivot.y: 200
+                z: 30
+                brightness: 1.52
+            }
+        }
+    ]
 }
 
 /*##^##

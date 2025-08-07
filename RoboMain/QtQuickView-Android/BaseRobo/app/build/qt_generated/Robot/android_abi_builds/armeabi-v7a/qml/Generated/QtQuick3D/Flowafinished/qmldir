@@ -1,0 +1,8 @@
+module Generated.QtQuick3D.Flowafinished
+linktarget Generated_QtQuick3D_Flowafinishedplugin
+optional plugin qml_Generated_QtQuick3D_Flowafinished_Generated_QtQuick3D_Flowafinishedplugin
+classname Generated_QtQuick3D_FlowafinishedPlugin
+typeinfo Generated_QtQuick3D_Flowafinished.qmltypes
+prefer :/qt/qml/Generated/QtQuick3D/Flowafinished/
+Flowafinished 1.0 Flowafinished.qml
+

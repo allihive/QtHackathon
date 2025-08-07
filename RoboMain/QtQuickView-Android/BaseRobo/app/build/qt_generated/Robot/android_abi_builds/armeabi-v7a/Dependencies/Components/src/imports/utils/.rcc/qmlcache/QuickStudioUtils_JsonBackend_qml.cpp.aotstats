@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 583,
+                        "durationMicroseconds": 607,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "updateJSON",
                         "line": 52
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 387,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "onContentChanged",
                         "line": 47

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 518,
+                        "durationMicroseconds": 555,
                         "errorMessage": "Cannot load property modelName from (component in /Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml)::modelName with type QString.",
                         "functionName": "onJsonObjectChanged",
                         "line": 50

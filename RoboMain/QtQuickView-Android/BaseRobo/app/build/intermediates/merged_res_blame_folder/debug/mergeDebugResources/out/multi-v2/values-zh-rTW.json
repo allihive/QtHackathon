@@ -4,7 +4,7 @@
             "outputFile": "com.example.baserobo.app-mergeDebugResources-45:/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/acc66edd93c888d72d4d467dee636e2d/transformed/RobotApp/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/b924cdd8e8c0b57fb77321f225d0b477/transformed/RobotApp/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

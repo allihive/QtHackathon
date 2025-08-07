@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 400,
+                        "durationMicroseconds": 393,
                         "errorMessage": "Cannot generate efficient code for iterator on non-list type",
                         "functionName": "onJsonObjectChanged",
                         "line": 55
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 114,
+                        "durationMicroseconds": 118,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "updateJSON",
                         "line": 65
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 266,
+                        "durationMicroseconds": 265,
                         "errorMessage": "Cannot generate efficient code for iterator on non-list type",
                         "functionName": "invalidateChildModels",
                         "line": 80
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "onCompleted",
                         "line": 89
