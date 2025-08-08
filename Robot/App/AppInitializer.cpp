@@ -27,7 +27,7 @@ void AppInitializer::configureEngine(QQmlApplicationEngine &engine,
     qDebug() << "[AppInitializer] ✔ QVideoSink uncreatable type registered";
 
     // 3a) Add unpacked qml folder to import paths
-    const QString unpackedQmlPath = QCoreApplication::applicationDirPath() + "/qml";
+    const QString unpackedQmlPath = QCoreApplication::applicationDirPath() + "qrc:/";
     QDir qmlDir(unpackedQmlPath);
     if (qmlDir.exists()) {
         engine.addImportPath(unpackedQmlPath);

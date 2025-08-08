@@ -1,7 +1,7 @@
 // RobotContent/App.qml
 import QtQuick
 import QtMultimedia
-import RobotApp
+import RobotContent
 
 Window {
     id: window
@@ -17,6 +17,7 @@ Window {
 
     VideoOutput {
         anchors.fill: parent
-        sink: cam.videoSink
+        fillMode: VideoOutput.PreserveAspectCrop
+        videoSink: cam.videoSink
     }
 }

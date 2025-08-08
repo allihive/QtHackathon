@@ -5,7 +5,10 @@ option(BUILD_QDS_COMPONENTS "Build design studio components" ON)
 
 project(RobotApp LANGUAGES CXX)
 
-list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
+list(APPEND CMAKE_MODULE_PATH
+        "${CMAKE_CURRENT_SOURCE_DIR}"
+        "${CMAKE_CURRENT_SOURCE_DIR}/cmake"
+)
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
@@ -15,7 +18,8 @@ set(QML_IMPORT_PATH ${QT_QML_OUTPUT_DIRECTORY}
         FORCE
 )
 
-find_package(Qt6 6.8 REQUIRED COMPONENTS
+find_package(Qt6 6.8 REQUIRED
+        COMPONENTS
         Core
         QuickControls2
         Multimedia
@@ -36,19 +40,23 @@ qt_add_executable(RobotApp
 )
 
 # 2) Package your QML under the RobotAppUI URI
-qt_add_qml_module(RobotApp
-        URI RobotAppUI            # ← Renamed from RobotApp
+qt6_add_qml_module(RobotApp
+        URI RobotAppUI
         VERSION 1.0
+
+        # Ensure App.qml ends up at qrc:/RobotAppUI/App.qml
+        RESOURCE_PREFIX "/RobotAppUI"
+
         QML_FILES
-        RobotContent/App.qml
+        "RobotContent/App.qml"
 )
 
 # Turn off the Java‐side QML bindings generator to avoid the name clash
 set_target_properties(RobotApp PROPERTIES
-     QT_ANDROID_GENERATE_JAVA_QTQUICKVIEW_CONTENTS OFF
+        QT_ANDROID_GENERATE_JAVA_QTQUICKVIEW_CONTENTS OFF
 )
 
-# 3) Link against all the Qt modules you use
+# 3) Link against all the Qt modules you use (no RobotAppUI library)
 target_link_libraries(RobotApp
         PRIVATE
         Qt6::Core
@@ -71,7 +79,7 @@ endif()
 
 if (LINK_INSIGHT)
     include(insight OPTIONAL)
-endif ()
+endif()
 
 include(GNUInstallDirs)
 install(TARGETS ${CMAKE_PROJECT_NAME}
