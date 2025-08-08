@@ -1,8 +1,0 @@
-module Generated.QtQuick3D.Flowafirst__1_
-linktarget Generated_QtQuick3D_Flowafirst__1_plugin
-optional plugin qml_Generated_QtQuick3D_Flowafirst__1__Generated_QtQuick3D_Flowafirst__1_plugin
-classname Generated_QtQuick3D_Flowafirst__1_Plugin
-typeinfo Generated_QtQuick3D_Flowafirst__1_.qmltypes
-prefer :/qt/qml/Generated/QtQuick3D/Flowafirst__1_/
-Flowafirst__1_ 1.0 Flowafirst__1_.qml
-

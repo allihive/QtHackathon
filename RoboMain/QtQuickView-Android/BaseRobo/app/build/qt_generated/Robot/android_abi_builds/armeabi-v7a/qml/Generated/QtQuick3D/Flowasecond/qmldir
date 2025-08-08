@@ -1,8 +1,0 @@
-module Generated.QtQuick3D.Flowasecond
-linktarget Generated_QtQuick3D_Flowasecondplugin
-optional plugin qml_Generated_QtQuick3D_Flowasecond_Generated_QtQuick3D_Flowasecondplugin
-classname Generated_QtQuick3D_FlowasecondPlugin
-typeinfo Generated_QtQuick3D_Flowasecond.qmltypes
-prefer :/qt/qml/Generated/QtQuick3D/Flowasecond/
-Flowasecond 1.0 Flowasecond.qml
-

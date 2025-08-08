@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Generated/QtQuick3D/Flowathird">
-    <file alias="qmldir">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml/Generated/QtQuick3D/Flowathird/qmldir</file>
-  </qresource>
-</RCC>
-

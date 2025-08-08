@@ -1,9 +1,0 @@
-module RobotContent
-linktarget RobotContentplugin
-optional plugin qml_RobotContent_RobotContentplugin
-classname RobotContentPlugin
-typeinfo RobotContent.qmltypes
-prefer :/qt/qml/RobotContent/
-Screen01 1.0 Screen01.ui.qml
-App 1.0 App.qml
-

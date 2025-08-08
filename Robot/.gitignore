@@ -1,0 +1,59 @@
+# macOS
+.DS_Store
+
+# Build files and directories
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+
+# IDE-specific files
+*.cbp
+*.depend
+*.layout
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries and Executables
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.bundle
+
+# Qt specific (if you are using Qt)
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qm
+*.qmlc
+*.jsc
+
+# User-specific files
+*.user
