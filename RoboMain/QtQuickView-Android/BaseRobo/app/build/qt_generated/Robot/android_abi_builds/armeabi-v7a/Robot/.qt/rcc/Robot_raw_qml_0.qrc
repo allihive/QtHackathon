@@ -1,8 +1,8 @@
 <RCC>
   <qresource prefix="/qt/qml/Robot/">
-    <file alias="EventListModel.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListModel.qml</file>
-    <file alias="EventListSimulator.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListSimulator.qml</file>
-    <file alias="Constants.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml</file>
+    <file alias="EventListModel.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListSimulator.qml</file>
+    <file alias="Constants.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml</file>
   </qresource>
 </RCC>
 

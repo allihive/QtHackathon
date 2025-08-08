@@ -25,7 +25,6 @@ Rectangle {
     height: Constants.height
 
     color: Constants.backgroundColor
-    state: "Flower3"
     property int flowerState: 0
 
     View3D {
@@ -59,6 +58,9 @@ Rectangle {
                 id: sceneCamera
                 x: 102.903
                 y: 179.004
+                pivot.x: 0
+                pivot.z: 350
+                pivot.y: 100
                 eulerRotation.y: 30
                 fieldOfViewOrientation: PerspectiveCamera.Horizontal
                 z: 116.97166
@@ -125,12 +127,13 @@ Rectangle {
         id: newStateGroup1
     }
     states: [
+
         State {
             name: "Flower1"
             when: rectangle.flowerState == 1
 
             PropertyChanges {
-                target: Flowafirst__1_
+                target: flowafirst__1_
                 visible: false
             }
             PropertyChanges {
@@ -144,6 +147,11 @@ Rectangle {
             PropertyChanges {
                 target: flowafinished
                 visible: false
+            }
+
+            PropertyChanges {
+                target: sceneCamera
+                frustumCullingEnabled: false
             }
         },
 
@@ -152,7 +160,7 @@ Rectangle {
             when: rectangle.flowerState == 2
 
             PropertyChanges {
-                target: Flowafirst__1_
+                target: flowafirst__1_
                 visible: false
             }
             PropertyChanges {
@@ -166,14 +174,16 @@ Rectangle {
             PropertyChanges {
                 target: flowafinished
                 visible: false
+                eulerRotation.x: 20
             }
         },
+
         State {
             name: "Flower3"
             when: rectangle.flowerState == 3
 
             PropertyChanges {
-                target: Flowafirst__1_
+                target: flowafirst__1_
                 visible: false
             }
             PropertyChanges {
@@ -186,7 +196,26 @@ Rectangle {
             }
             PropertyChanges {
                 target: flowafinished
+                x: -121.291
+                y: -21.22
                 visible: true
+                scale.z: 10
+                scale.y: 10
+                scale.x: 10
+                eulerRotation.x: 20
+                z: -283.15918
+            }
+
+            PropertyChanges {
+                target: directionalLight
+                x: -338.803
+                y: 321.706
+                eulerRotation.x: -150
+                eulerRotation.z: 50
+                eulerRotation.y: 90
+                pivot.y: 0
+                z: 160.09911
+                brightness: 2
             }
         }
     ]

@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/qt-project.org/imports/QtQuick/Studio/LogicHelper">
-    <file alias="qmldir">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml/QtQuick/Studio/LogicHelper/qmldir</file>
+    <file alias="qmldir">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml/QtQuick/Studio/LogicHelper/qmldir</file>
   </qresource>
 </RCC>
 

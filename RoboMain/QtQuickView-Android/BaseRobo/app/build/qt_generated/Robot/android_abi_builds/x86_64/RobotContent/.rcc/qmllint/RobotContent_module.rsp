@@ -1,12 +1,12 @@
 -I
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml
 -I
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/qml
 -I
-/Users/aliceli/Qt/6.9.1/android_x86_64/qml
+C:/Qt/6.9.1/android_x86_64/qml
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/RobotContent/.qt/rcc/qmake_RobotContent.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/RobotContent/.qt/rcc/qmake_RobotContent.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/RobotContent/.qt/rcc/RobotContent_raw_qml_0.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/RobotContent/.qt/rcc/RobotContent_raw_qml_0.qrc
 --module
 RobotContent

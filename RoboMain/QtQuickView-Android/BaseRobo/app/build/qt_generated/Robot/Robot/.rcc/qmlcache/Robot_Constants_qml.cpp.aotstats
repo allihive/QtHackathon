@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 34,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 368,
                         "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
                         "functionName": "font",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 39,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 169,
                         "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
                         "functionName": "largeFont",
                         "line": 16
@@ -28,7 +28,7 @@
                         "line": 25
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/Constants.qml"
             }
         ],
         "moduleId": "Robot(Robot)"

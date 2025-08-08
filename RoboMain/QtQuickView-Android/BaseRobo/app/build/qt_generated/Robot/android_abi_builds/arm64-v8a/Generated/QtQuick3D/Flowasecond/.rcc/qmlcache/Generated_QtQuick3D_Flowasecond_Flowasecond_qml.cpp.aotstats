@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 519,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 16
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 193,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 17
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 24
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 166,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 25
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 192,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 32
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 135,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 33
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 184,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 40
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 172,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 41
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 195,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 48
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 49
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 196,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 56
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 204,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 57
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 184,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 64
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 138,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 65
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 183,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 72
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 145,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 73
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 165,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 80
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 118,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 81
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 141,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 88
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 117,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 89
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 127,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 96
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 233,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 97
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 158,
                         "errorMessage": "",
                         "functionName": "cullMode",
                         "line": 104
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 121,
                         "errorMessage": "",
                         "functionName": "alphaMode",
                         "line": 105
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 50,
+                        "durationMicroseconds": 299,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 122
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 92,
+                        "durationMicroseconds": 603,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 132
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 254,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 137
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 730,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 147
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 362,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 152
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 576,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 162
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 236,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 167
@@ -254,7 +254,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 597,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 177
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 218,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 182
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 481,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 192
@@ -278,7 +278,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 235,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 197
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 440,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 207
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 312,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 212
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 53,
+                        "durationMicroseconds": 408,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 222
@@ -310,7 +310,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 203,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 224
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 52,
+                        "durationMicroseconds": 398,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 234
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 226,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 236
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 53,
+                        "durationMicroseconds": 1013,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 246
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 243,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 248
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 422,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 258
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 210,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 263
@@ -366,7 +366,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 55,
+                        "durationMicroseconds": 633,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method quaternion, returning QVariant -> QQuaternion stored as QVariant",
                         "functionName": "rotation",
                         "line": 273
@@ -374,13 +374,13 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 215,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 278
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowasecond/Flowasecond.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowasecond/Flowasecond.qml"
             }
         ],
         "moduleId": "Generated.QtQuick3D.Flowasecond(Generated_QtQuick3D_Flowasecond)"

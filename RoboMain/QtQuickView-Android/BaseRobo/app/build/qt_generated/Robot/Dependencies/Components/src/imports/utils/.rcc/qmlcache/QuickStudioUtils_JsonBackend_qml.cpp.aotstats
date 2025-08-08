@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 562,
+                        "durationMicroseconds": 4401,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "updateJSON",
                         "line": 52
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 263,
                         "errorMessage": "",
                         "functionName": "filePath",
                         "line": 46
@@ -30,13 +30,13 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 247,
                         "errorMessage": "",
                         "functionName": "onContentChanged",
                         "line": 47
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonBackend.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonBackend.qml"
             }
         ],
         "moduleId": "QtQuick.Studio.Utils(QuickStudioUtils)"

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.baserobo.app-mergeDebugResources-45:/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "com.example.baserobo.app-mergeDebugResources-2:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/aliceli/.gradle/caches/8.13/transforms/20fc6ed58e6993535003248da024461f/transformed/appcompat-1.7.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\20fc6ed58e6993535003248da024461f\\transformed\\appcompat-1.7.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

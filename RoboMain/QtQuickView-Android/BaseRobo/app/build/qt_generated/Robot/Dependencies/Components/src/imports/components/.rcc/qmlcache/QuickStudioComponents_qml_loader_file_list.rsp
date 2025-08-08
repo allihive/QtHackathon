@@ -1,7 +1,7 @@
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/Dependencies/Components/src/imports/components/.qt/rcc/qmake_QtQuick_Studio_Components.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/Dependencies/Components/src/imports/components/.qt/rcc/qmake_QtQuick_Studio_Components.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/Dependencies/Components/src/imports/components/.qt/rcc/QuickStudioComponents_raw_qml_0.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/Dependencies/Components/src/imports/components/.qt/rcc/QuickStudioComponents_raw_qml_0.qrc
 /qt-project.org/imports/QtQuick/Studio/Components/ArcArrow.qml
 /qt-project.org/imports/QtQuick/Studio/Components/ArcItem.qml
 /qt-project.org/imports/QtQuick/Studio/Components/BorderItem.qml

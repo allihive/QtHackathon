@@ -1,11 +1,11 @@
 <RCC>
   <qresource prefix="/qt-project.org/imports/QtQuick/Studio/DesignEffects">
-    <file alias="shaders/dropShadow.frag.qsb">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/dropShadow.frag.qsb</file>
-    <file alias="shaders/dropShadowClip.frag.qsb">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/dropShadowClip.frag.qsb</file>
-    <file alias="shaders/gaussianBlur.frag.qsb">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/gaussianBlur.frag.qsb</file>
-    <file alias="shaders/innerShadow.frag.qsb">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/innerShadow.frag.qsb</file>
-    <file alias="shaders/innerShadowClip.frag.qsb">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/innerShadowClip.frag.qsb</file>
-    <file alias="shaders/opacityMask.frag.qsb">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/opacityMask.frag.qsb</file>
+    <file alias="shaders/dropShadow.frag.qsb">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/dropShadow.frag.qsb</file>
+    <file alias="shaders/dropShadowClip.frag.qsb">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/dropShadowClip.frag.qsb</file>
+    <file alias="shaders/gaussianBlur.frag.qsb">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/gaussianBlur.frag.qsb</file>
+    <file alias="shaders/innerShadow.frag.qsb">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/innerShadow.frag.qsb</file>
+    <file alias="shaders/innerShadowClip.frag.qsb">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/innerShadowClip.frag.qsb</file>
+    <file alias="shaders/opacityMask.frag.qsb">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/Dependencies/Components/src/imports/designeffects/.qsb/shaders/opacityMask.frag.qsb</file>
   </qresource>
 </RCC>
 

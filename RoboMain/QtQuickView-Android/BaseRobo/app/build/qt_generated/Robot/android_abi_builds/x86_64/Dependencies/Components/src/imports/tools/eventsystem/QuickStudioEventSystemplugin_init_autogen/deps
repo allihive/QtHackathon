@@ -1,10 +1,10 @@
 QuickStudioEventSystemplugin_init_autogen/timestamp: \
-	/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
-	/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
-	/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
-	/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
-	/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
-	/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_QtQuick_Studio_EventSystemPlugin_in.cpp \
-	/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_init.cpp \
-	/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/tools/eventsystem/CMakeLists.txt \
-	/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/bin/cmake
+	C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_QtQuick_Studio_EventSystemPlugin_in.cpp \
+	C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_init.cpp \
+	C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/tools/eventsystem/CMakeLists.txt \
+	C:/Qt/Tools/CMake_64/bin/cmake.exe

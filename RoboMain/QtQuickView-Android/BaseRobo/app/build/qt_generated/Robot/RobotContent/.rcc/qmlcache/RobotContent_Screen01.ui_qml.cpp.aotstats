@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 35460,
+                        "durationMicroseconds": 3899,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 24
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 13,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 25
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 81,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 27
@@ -30,119 +30,111 @@
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 58,
                         "errorMessage": "",
                         "functionName": "environment",
-                        "line": 39
+                        "line": 38
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 33
+                        "line": 32
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 378,
+                        "durationMicroseconds": 69,
                         "errorMessage": "",
                         "functionName": "backgroundMode",
-                        "line": 44
+                        "line": 43
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 64,
                         "errorMessage": "",
                         "functionName": "antialiasingMode",
-                        "line": 45
+                        "line": 44
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 34,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 58,
                         "errorMessage": "",
                         "functionName": "antialiasingQuality",
-                        "line": 46
+                        "line": 45
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 41,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "fieldOfViewOrientation",
-                        "line": 63
+                        "line": 65
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 121,
                         "errorMessage": "",
                         "functionName": "when",
-                        "line": 173
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 25,
-                        "durationMicroseconds": 17,
-                        "errorMessage": "cannot convert from const QMetaObject to QObject",
-                        "functionName": "target",
-                        "line": 176
+                        "line": 183
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 180
+                        "line": 186
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 184
+                        "line": 190
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 188
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 210
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 83,
                         "errorMessage": "",
                         "functionName": "when",
-                        "line": 152
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 25,
-                        "durationMicroseconds": 10,
-                        "errorMessage": "cannot convert from const QMetaObject to QObject",
-                        "functionName": "target",
-                        "line": 155
+                        "line": 160
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 159
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 45,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 163
@@ -150,53 +142,77 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 48,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 167
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 19,
-                        "durationMicroseconds": 32,
+                        "column": 25,
+                        "durationMicroseconds": 47,
                         "errorMessage": "",
-                        "functionName": "when",
-                        "line": 130
+                        "functionName": "target",
+                        "line": 171
                     },
                     {
-                        "codegenSuccessful": false,
+                        "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 9,
-                        "errorMessage": "cannot convert from const QMetaObject to QObject",
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
                         "functionName": "target",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "when",
                         "line": 133
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 45,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 137
+                        "line": 136
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 141
+                        "line": 140
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 145
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 153
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/Screen01.ui.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/Screen01.ui.qml"
             }
         ],
         "moduleId": "RobotContent(RobotContent)"

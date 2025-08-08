@@ -1,7 +1,7 @@
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
 /QtQuick/Studio/Utils/JsonListModel.qml
 /QtQuick/Studio/Utils/JsonBackend.qml
 /QtQuick/Studio/Utils/ChildListModel.qml

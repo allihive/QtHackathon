@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/">
-    <file alias="/qt/qml/Generated/QtQuick3D/Flowasecond">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml/Generated/QtQuick3D/Flowasecond</file>
+    <file alias="/qt/qml/Generated/QtQuick3D/Flowasecond">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/qml/Generated/QtQuick3D/Flowasecond</file>
 
   </qresource>
 </RCC>

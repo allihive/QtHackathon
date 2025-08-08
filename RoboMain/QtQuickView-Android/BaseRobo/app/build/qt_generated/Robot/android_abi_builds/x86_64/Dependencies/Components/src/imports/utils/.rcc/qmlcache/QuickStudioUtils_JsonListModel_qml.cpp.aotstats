@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 389,
+                        "durationMicroseconds": 29598,
                         "errorMessage": "Cannot generate efficient code for iterator on non-list type",
                         "functionName": "onJsonObjectChanged",
                         "line": 55
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 161,
+                        "durationMicroseconds": 650,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "updateJSON",
                         "line": 65
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 344,
+                        "durationMicroseconds": 3430,
                         "errorMessage": "Cannot generate efficient code for iterator on non-list type",
                         "functionName": "invalidateChildModels",
                         "line": 80
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 248,
                         "errorMessage": "",
                         "functionName": "filePath",
                         "line": 50
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 237,
                         "errorMessage": "",
                         "functionName": "onContentChanged",
                         "line": 51
@@ -54,13 +54,13 @@
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "onCompleted",
                         "line": 89
                     }
                 ],
-                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonListModel.qml"
+                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonListModel.qml"
             }
         ],
         "moduleId": "QtQuick.Studio.Utils(QuickStudioUtils)"

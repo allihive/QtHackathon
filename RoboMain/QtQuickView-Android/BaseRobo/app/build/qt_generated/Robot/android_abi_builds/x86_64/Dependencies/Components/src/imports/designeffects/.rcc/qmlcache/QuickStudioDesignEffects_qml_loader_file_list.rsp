@@ -1,9 +1,9 @@
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/designeffects/.qt/rcc/qmake_QtQuick_Studio_DesignEffects.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/designeffects/.qt/rcc/qmake_QtQuick_Studio_DesignEffects.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/designeffects/.qt/rcc/QuickStudioDesignEffects_raw_qml_0.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/designeffects/.qt/rcc/QuickStudioDesignEffects_raw_qml_0.qrc
 --resource
-/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/designeffects/.qt/rcc/designeffectsshaders.qrc
+C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Dependencies/Components/src/imports/designeffects/.qt/rcc/designeffectsshaders.qrc
 /qt-project.org/imports/QtQuick/Studio/DesignEffects/DesignBackgroundBlurPrivate.qml
 /qt-project.org/imports/QtQuick/Studio/DesignEffects/DesignDropShadow.qml
 /qt-project.org/imports/QtQuick/Studio/DesignEffects/DesignDropShadowPrivate.qml

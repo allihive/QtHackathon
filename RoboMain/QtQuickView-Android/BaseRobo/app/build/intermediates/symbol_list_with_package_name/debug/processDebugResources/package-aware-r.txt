@@ -2154,6 +2154,7 @@ color purple_200
 color purple_500
 color purple_700
 color rain
+color rain_full_color
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -2161,6 +2162,7 @@ color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
 color sun
+color sun_full_color
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark

@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/">
-    <file alias="/qt/qml/Robot">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml/Robot</file>
+    <file alias="/qt/qml/Robot">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml/Robot</file>
 
   </qresource>
 </RCC>

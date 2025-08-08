@@ -10,4 +10,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="sun">#FCECA2</color>
     <color name="rain">#4D6487</color>
+    <color name="sun_full_color">#ffd60a</color>
+    <color name="rain_full_color">#03045e</color>
+
 </resources>

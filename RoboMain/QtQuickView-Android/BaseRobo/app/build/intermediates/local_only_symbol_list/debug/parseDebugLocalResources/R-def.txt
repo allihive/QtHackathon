@@ -6,7 +6,9 @@ color purple_200
 color purple_500
 color purple_700
 color rain
+color rain_full_color
 color sun
+color sun_full_color
 color teal_200
 color teal_700
 color white
