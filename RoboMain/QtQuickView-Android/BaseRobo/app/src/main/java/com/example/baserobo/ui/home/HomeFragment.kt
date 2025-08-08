@@ -9,7 +9,11 @@ import androidx.fragment.app.Fragment
 import com.example.baserobo.databinding.FragmentHomeBinding
 import org.qtproject.example.RobotApp.RobotContent.Screen01
 import org.qtproject.qt.android.QtQuickView
+private val animationList = listOf("flowafirst__1_",
+    "flowasecond", "flowathird",
+    "tflowafinished")
 
+private var animationCounter = 0
 class HomeFragment : Fragment() {
 
     private var homeFragmentBinding: FragmentHomeBinding? = null
@@ -50,15 +54,21 @@ class HomeFragment : Fragment() {
 
     private fun checkKuku() {
         if (sun >= 4 && rain >= 4) {
-            Toast.makeText(requireContext(), "KUKU", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(requireContext(), "KUKU", Toast.LENGTH_SHORT).show()
 
             binding.buttonSun.setBackgroundColor(resources.getColor(R.color.sun_full_color, null))
             binding.buttonRain.setBackgroundColor(resources.getColor(R.color.rain_full_color, null))
 
+            // Increment flower state cyclically from 0 to 3
+            animationCounter = (animationCounter + 1) % 4
+            homeQtQuickView.setProperty("flowerState", animationCounter)
+
+            // Reset counters
             sun = 1
             rain = 1
         }
     }
+
 
     override fun onDestroyView() {
         super.onDestroyView()

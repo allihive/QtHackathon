@@ -23,17 +23,19 @@ Rectangle {
     id: rectangle
     width: Constants.width
     height: Constants.height
-
     color: Constants.backgroundColor
+
+    // Property for flower state
     property int flowerState: 0
+
+    // Method to update flowerState, can be called from Android Kotlin
+    function setFlowerState(state) {
+        flowerState = state;
+    }
 
     View3D {
         id: extendedView3D
         anchors.fill: parent
-        anchors.leftMargin: 0
-        anchors.rightMargin: 0
-        anchors.topMargin: 0
-        anchors.bottomMargin: 0
 
         environment: sceneEnvironment
 
@@ -47,6 +49,7 @@ Rectangle {
 
         Node {
             id: scene
+
             DirectionalLight {
                 id: directionalLight
                 x: -2.9
@@ -69,9 +72,7 @@ Rectangle {
             Flowafinished {
                 id: flowafinished
                 x: -132.162
-                scale.z: 10
-                scale.y: 10
-                scale.x: 10
+                scale: Qt.vector3d(10, 10, 10)
                 visible: false
                 z: -272.50958
             }
@@ -80,9 +81,7 @@ Rectangle {
                 id: flowafirst__1_
                 x: -132.268
                 y: -13.58
-                scale.z: 10
-                scale.y: 10
-                scale.x: 10
+                scale: Qt.vector3d(10, 10, 10)
                 z: -263.89462
             }
 
@@ -91,9 +90,7 @@ Rectangle {
                 x: -126.978
                 y: -12.046
                 visible: false
-                scale.z: 10
-                scale.y: 10
-                scale.x: 10
+                scale: Qt.vector3d(10, 10, 10)
                 z: -257.73355
             }
 
@@ -102,9 +99,7 @@ Rectangle {
                 x: -127.335
                 y: -10.637
                 visible: false
-                scale.z: 10
-                scale.y: 10
-                scale.x: 10
+                scale: Qt.vector3d(10, 10, 10)
                 z: -255.4046
             }
         }
@@ -119,93 +114,48 @@ Rectangle {
         }
     }
 
-    StateGroup {
-        id: newStateGroup
-    }
+    // State groups are empty, can be removed or used later if needed
+    StateGroup { id: newStateGroup }
+    StateGroup { id: newStateGroup1 }
 
-    StateGroup {
-        id: newStateGroup1
-    }
     states: [
-
         State {
             name: "Flower1"
-            when: rectangle.flowerState == 1
+            when: rectangle.flowerState === 1
 
-            PropertyChanges {
-                target: flowafirst__1_
-                visible: false
-            }
-            PropertyChanges {
-                target: flowasecond
-                visible: true
-            }
-            PropertyChanges {
-                target: flowathird
-                visible: false
-            }
-            PropertyChanges {
-                target: flowafinished
-                visible: false
-            }
-
-            PropertyChanges {
-                target: sceneCamera
-                frustumCullingEnabled: false
-            }
+            PropertyChanges { target: flowafirst__1_; visible: false }
+            PropertyChanges { target: flowasecond; visible: true }
+            PropertyChanges { target: flowathird; visible: false }
+            PropertyChanges { target: flowafinished; visible: false }
+            PropertyChanges { target: sceneCamera; frustumCullingEnabled: false }
         },
 
         State {
             name: "Flower2"
-            when: rectangle.flowerState == 2
+            when: rectangle.flowerState === 2
 
-            PropertyChanges {
-                target: flowafirst__1_
-                visible: false
-            }
-            PropertyChanges {
-                target: flowasecond
-                visible: false
-            }
-            PropertyChanges {
-                target: flowathird
-                visible: true
-            }
-            PropertyChanges {
-                target: flowafinished
-                visible: false
-                eulerRotation.x: 20
-            }
+            PropertyChanges { target: flowafirst__1_; visible: false }
+            PropertyChanges { target: flowasecond; visible: false }
+            PropertyChanges { target: flowathird; visible: true }
+            PropertyChanges { target: flowafinished; visible: false; eulerRotation.x: 20 }
         },
 
         State {
             name: "Flower3"
-            when: rectangle.flowerState == 3
+            when: rectangle.flowerState === 3
 
-            PropertyChanges {
-                target: flowafirst__1_
-                visible: false
-            }
-            PropertyChanges {
-                target: flowasecond
-                visible: false
-            }
-            PropertyChanges {
-                target: flowathird
-                visible: false
-            }
+            PropertyChanges { target: flowafirst__1_; visible: false }
+            PropertyChanges { target: flowasecond; visible: false }
+            PropertyChanges { target: flowathird; visible: false }
             PropertyChanges {
                 target: flowafinished
                 x: -121.291
                 y: -21.22
                 visible: true
-                scale.z: 10
-                scale.y: 10
-                scale.x: 10
+                scale: Qt.vector3d(10, 10, 10)
                 eulerRotation.x: 20
                 z: -283.15918
             }
-
             PropertyChanges {
                 target: directionalLight
                 x: -338.803

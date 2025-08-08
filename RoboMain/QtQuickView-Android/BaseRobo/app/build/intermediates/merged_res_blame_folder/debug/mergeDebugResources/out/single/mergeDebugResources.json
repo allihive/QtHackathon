@@ -4,6 +4,14 @@
         "source": "com.example.baserobo.app-main-6:/drawable/ic_notifications_black_24dp.xml"
     },
     {
+        "merged": "com.example.baserobo.app-debug-4:/drawable_picture1.xml.flat",
+        "source": "com.example.baserobo.app-main-6:/drawable/picture1.xml"
+    },
+    {
+        "merged": "com.example.baserobo.app-debug-4:/drawable_picture3.xml.flat",
+        "source": "com.example.baserobo.app-main-6:/drawable/picture3.xml"
+    },
+    {
         "merged": "com.example.baserobo.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.baserobo.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
     },
@@ -62,6 +70,10 @@
     {
         "merged": "com.example.baserobo.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "com.example.baserobo.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.baserobo.app-debug-4:/drawable_picture2.xml.flat",
+        "source": "com.example.baserobo.app-main-6:/drawable/picture2.xml"
     },
     {
         "merged": "com.example.baserobo.app-debug-4:/layout_fragment_home.xml.flat",

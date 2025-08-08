@@ -4,7 +4,7 @@
             "outputFile": "com.example.baserobo.app-mergeDebugResources-2:/values-se/values-se.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\12c18f382b46eb13d0a36a572a889bba\\transformed\\RobotApp\\res\\values-se\\values-se.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\80aab9804964afab845712c60da284c6\\transformed\\RobotApp\\res\\values-se\\values-se.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

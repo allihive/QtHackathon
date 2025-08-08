@@ -4,23 +4,6 @@
             "outputFile": "com.example.baserobo.app-mergeDebugResources-2:/values-nl/values-nl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\12c18f382b46eb13d0a36a572a889bba\\transformed\\RobotApp\\res\\values-nl\\values-nl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "159",
-                        "endOffsets": "255"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4725",
-                        "endColumns": "159",
-                        "endOffsets": "4880"
-                    }
-                },
-                {
                     "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\c994fd72618e5ae0f0db18cefdbc5100\\transformed\\core-1.16.0\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -88,6 +71,23 @@
                         "startOffsets": "9684,9795",
                         "endColumns": "110,108",
                         "endOffsets": "9790,9899"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\8.13\\transforms\\80aab9804964afab845712c60da284c6\\transformed\\RobotApp\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "159",
+                        "endOffsets": "255"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4725",
+                        "endColumns": "159",
+                        "endOffsets": "4880"
                     }
                 }
             ]

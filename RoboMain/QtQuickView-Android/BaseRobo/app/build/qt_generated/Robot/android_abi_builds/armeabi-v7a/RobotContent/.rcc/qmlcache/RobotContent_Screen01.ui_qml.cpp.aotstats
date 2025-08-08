@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 5850,
+                        "durationMicroseconds": 5357,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 24
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 13,
-                        "durationMicroseconds": 131,
+                        "durationMicroseconds": 94,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 25
@@ -22,130 +22,130 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "color",
-                        "line": 27
+                        "line": 26
                     },
                     {
-                        "codegenSuccessful": true,
-                        "column": 22,
-                        "durationMicroseconds": 73,
-                        "errorMessage": "",
-                        "functionName": "environment",
-                        "line": 38
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 23,
-                        "durationMicroseconds": 60,
-                        "errorMessage": "",
-                        "functionName": "fill",
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setFlowerState",
                         "line": 32
                     },
                     {
                         "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "",
+                        "functionName": "environment",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 89,
                         "errorMessage": "",
                         "functionName": "backgroundMode",
-                        "line": 43
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 31,
-                        "durationMicroseconds": 77,
-                        "errorMessage": "",
-                        "functionName": "antialiasingMode",
-                        "line": 44
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 34,
-                        "durationMicroseconds": 61,
-                        "errorMessage": "",
-                        "functionName": "antialiasingQuality",
                         "line": 45
                     },
                     {
                         "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "antialiasingMode",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "antialiasingQuality",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": true,
                         "column": 41,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 74,
                         "errorMessage": "",
                         "functionName": "fieldOfViewOrientation",
-                        "line": 65
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "scale",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "scale",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "scale",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "scale",
+                        "line": 102
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 175,
+                        "durationMicroseconds": 129,
                         "errorMessage": "",
                         "functionName": "when",
-                        "line": 183
+                        "line": 145
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 101,
+                        "column": 39,
+                        "durationMicroseconds": 71,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 186
+                        "line": 147
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
+                        "column": 39,
                         "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 190
+                        "line": 148
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 55,
+                        "column": 39,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 194
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 52,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 198
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 77,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 210
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 19,
-                        "durationMicroseconds": 111,
-                        "errorMessage": "",
-                        "functionName": "when",
-                        "line": 160
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 76,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 163
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 63,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 167
+                        "line": 149
                     },
                     {
                         "codegenSuccessful": true,
@@ -153,63 +153,111 @@
                         "durationMicroseconds": 54,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 171
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"scale\". You may want use ID-based grouped properties here.",
+                        "functionName": "scale",
+                        "line": 155
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 175
+                        "line": 160
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 2271,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "when",
-                        "line": 133
+                        "line": 135
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 104,
+                        "column": 39,
+                        "durationMicroseconds": 87,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 136
+                        "line": 137
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 68,
+                        "column": 39,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 55,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 140
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 67,
+                        "column": 19,
+                        "durationMicroseconds": 113,
                         "errorMessage": "",
-                        "functionName": "target",
-                        "line": 144
+                        "functionName": "when",
+                        "line": 124
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 120,
+                        "column": 39,
+                        "durationMicroseconds": 56,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 148
+                        "line": 126
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 73,
+                        "column": 39,
+                        "durationMicroseconds": 80,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 153
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 130
                     }
                 ],
                 "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/RobotContent/Screen01.ui.qml"

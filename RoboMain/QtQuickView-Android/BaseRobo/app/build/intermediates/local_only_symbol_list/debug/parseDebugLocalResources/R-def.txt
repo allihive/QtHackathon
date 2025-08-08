@@ -19,6 +19,9 @@ drawable ic_home_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_notifications_black_24dp
+drawable picture1
+drawable picture2
+drawable picture3
 id button_rain
 id button_sun
 id container
