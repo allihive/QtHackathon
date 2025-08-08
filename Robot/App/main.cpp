@@ -1,6 +1,7 @@
 // main.cpp
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QDebug>
 #include "AppInitializer.hpp"
 #include "CameraController.hpp"
 

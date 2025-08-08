@@ -8,7 +8,7 @@ Window {
     visible: true
     width: Screen.width
     height: Screen.height
-    title: qsTr("Robot Selfie Preview")
+    title: qsTr("Flower power!")
 
     CameraController {
         id: cam

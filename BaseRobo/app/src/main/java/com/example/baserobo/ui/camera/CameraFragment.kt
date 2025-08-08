@@ -4,10 +4,11 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.view.ViewGroup.LayoutParams.MATCH_PARENT
 import androidx.fragment.app.Fragment
 import com.example.baserobo.databinding.FragmentCameraBinding
-import org.qtproject.qt.android.QtQuickView
 import org.qtproject.example.RobotApp.RobotContent.App
+import org.qtproject.qt.android.QtQuickView
 
 class CameraFragment : Fragment() {
 
@@ -23,20 +24,15 @@ class CameraFragment : Fragment() {
     ): View {
         _binding = FragmentCameraBinding.inflate(inflater, container, false)
 
-        // 1) Create the QtQuickView
-        qtView = QtQuickView(requireActivity())
+        // 1) Create the Java QtQuickView
+        qtView = QtQuickView(requireContext())
 
-        // 2) Instantiate the QML root
-        val qmlRoot = App()
+        // 2) Load your QML root object (the generated App() class)
+        qtView.loadContent(App())
 
-        // 3) Load QML content
-        qtView.loadContent(qmlRoot)
-
-        // 4) Inject into your FrameLayout
-        binding.cameraQmlFrame.addView(
-            qtView,
-            ViewGroup.LayoutParams.MATCH_PARENT,
-            ViewGroup.LayoutParams.MATCH_PARENT
+        // 3) Embed it straight into your FrameLayout
+        binding.cameraQmlFrame.addView(qtView,
+            ViewGroup.LayoutParams(MATCH_PARENT, MATCH_PARENT)
         )
 
         return binding.root
@@ -44,18 +40,17 @@ class CameraFragment : Fragment() {
 
     override fun onResume() {
         super.onResume()
-        // Activate the camera when fragment is visible
+        // Toggle the `cameraActive` alias in your App.qml
         qtView.setProperty("cameraActive", true)
     }
 
     override fun onPause() {
-        // Deactivate the camera before fragment is hidden
         qtView.setProperty("cameraActive", false)
         super.onPause()
     }
 
     override fun onDestroyView() {
-        // Remove the QtQuickView so it can be garbage-collected
+        // Remove the QtQuickView so it can be GC’d
         binding.cameraQmlFrame.removeView(qtView)
         _binding = null
         super.onDestroyView()

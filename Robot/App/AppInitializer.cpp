@@ -5,25 +5,54 @@
 #include <QCoreApplication>
 #include <QPermissions>
 #include <QQmlContext>
+#include <QDir>
+#include <QQmlContext>
 #include <QDebug>
 
 void AppInitializer::configureEngine(QQmlApplicationEngine &engine,
                                      CameraController       &camCtrl)
 {
-    // 1) If you ever need to instantiate CameraController in QML:
-    qmlRegisterType<CameraController>("RobotApp", 1, 0, "CameraController");
+    qDebug() << "[AppInitializer] Starting QML engine configuration…";
 
-    // 2) Make QVideoSink available if you bind VideoOutput::sink to it
+    // 1) Register CameraController as a QML type
+    qDebug() << "[AppInitializer] Registering CameraController QML type (RobotApp 1.0)…";
+    qmlRegisterType<CameraController>("RobotApp", 1, 0, "CameraController");
+    qDebug() << "[AppInitializer] ✔ CameraController registered";
+
+    // 2) Register QVideoSink as uncreatable (used by VideoOutput::sink)
+    qDebug() << "[AppInitializer] Registering uncreatable QVideoSink type…";
     qmlRegisterUncreatableType<QVideoSink>(
             "QtMultimedia", 6, 9, "VideoSink",
             QStringLiteral("Provided by CameraController"));
+    qDebug() << "[AppInitializer] ✔ QVideoSink uncreatable type registered";
 
-    // 3) QML import paths (so qrc:/qml and your unpacked qml/ folder work)
-    engine.addImportPath(QCoreApplication::applicationDirPath() + "/qml");
-    engine.addImportPath(QStringLiteral("qrc:/"));
+    // 3a) Add unpacked qml folder to import paths
+    const QString unpackedQmlPath = QCoreApplication::applicationDirPath() + "/qml";
+    QDir qmlDir(unpackedQmlPath);
+    if (qmlDir.exists()) {
+        engine.addImportPath(unpackedQmlPath);
+        qDebug() << "[AppInitializer] Added import path:" << unpackedQmlPath;
+    } else {
+        qWarning() << "[AppInitializer] ⚠ Import path does not exist:" << unpackedQmlPath;
+    }
 
-    // 4) Expose your single CameraController instance as "camCtrl"
-    engine.rootContext()->setContextProperty(QStringLiteral("camCtrl"), &camCtrl);
+    // 3b) Always add the Qt resource path
+    const QString qrcPath = QStringLiteral("qrc:/");
+    engine.addImportPath(qrcPath);
+    qDebug() << "[AppInitializer] Added import path:" << qrcPath;
+
+    // 4) Expose the CameraController instance under the name "camCtrl"
+    QQmlContext *rootCtx = engine.rootContext();
+    if (rootCtx) {
+        rootCtx->setContextProperty(QStringLiteral("camCtrl"), &camCtrl);
+        qDebug() << "[AppInitializer] Exposed CameraController as context property 'camCtrl'";
+    } else {
+        qWarning() << "[AppInitializer] ⚠ Failed to obtain QQmlContext; 'camCtrl' not exposed";
+    }
+
+    // Final summary of import paths
+    qDebug() << "[AppInitializer] Engine import paths now:" << engine.importPathList();
+    qDebug() << "[AppInitializer] QML engine configuration complete.";
 }
 
 void AppInitializer::requestPermissionAndLoad(QGuiApplication &app,

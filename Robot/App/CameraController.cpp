@@ -3,11 +3,16 @@
 CameraController::CameraController(QObject* parent)
         : QObject(parent)
 {
-    // pick the default video input device
-    QCameraDevice defaultDev = QMediaDevices::defaultVideoInput();
+    // pick the front‐facing camera (fallback to default)
+    QCameraDevice chosenDev = QMediaDevices::defaultVideoInput();
+    for (auto &dev : QMediaDevices::videoInputs()) {
+        if (dev.position() == QCameraDevice::Position::FrontFace) {
+            chosenDev = dev;
+            break;
+        }
+    }
 
-    // create the camera and hook it to the capture session
-    m_camera = new QCamera(defaultDev, this);
-    m_captureSession.setCamera(m_camera);
-    m_captureSession.setVideoSink(&m_videoSink);
+    // now select it
+    selectCamera(chosenDev);
+    // and leave 'active' off until QML or Kotlin/Java turns it on
 }
