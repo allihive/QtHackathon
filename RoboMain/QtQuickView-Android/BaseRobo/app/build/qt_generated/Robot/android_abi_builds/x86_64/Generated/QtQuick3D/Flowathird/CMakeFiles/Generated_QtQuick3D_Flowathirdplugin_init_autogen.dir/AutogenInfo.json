@@ -1,30 +1,29 @@
 {
-	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen",
-	"CMAKE_BINARY_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowathird",
-	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"BUILD_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowathird",
+	"CMAKE_EXECUTABLE" : "/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowathird/CMakeLists.txt",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
-		"C:/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_Generated_QtQuick3D_FlowathirdPlugin_in.cpp"
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowathird/CMakeLists.txt",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_Generated_QtQuick3D_FlowathirdPlugin_in.cpp"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot",
+	"CMAKE_SOURCE_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/deps",
+	"DEP_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "Generated_QtQuick3D_Flowathirdplugin_init_autogen/timestamp",
 	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -45,19 +44,19 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowathird",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_autogen/include",
-		"C:/Qt/6.9.1/android_x86_64/include/QtQml",
-		"C:/Qt/6.9.1/android_x86_64/include/QtQmlIntegration",
-		"C:/Qt/6.9.1/android_x86_64/include/QtNetwork",
-		"C:/Qt/6.9.1/android_x86_64/include",
-		"C:/Qt/6.9.1/android_x86_64/include/QtCore",
-		"C:/Qt/6.9.1/android_x86_64/mkspecs/android-clang",
-		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1",
-		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/18/include",
-		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/x86_64-linux-android",
-		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include"
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowathird",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_autogen/include",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtQml",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtQmlIntegration",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtNetwork",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/include",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/include/QtCore",
+		"/Users/aliceli/Qt/6.9.1/android_x86_64/mkspecs/android-clang",
+		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1",
+		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/18/include",
+		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/x86_64-linux-android",
+		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include"
 	],
 	"MOC_MACRO_NAMES" : 
 	[
@@ -72,39 +71,39 @@
 	"MOC_PATH_PREFIX" : false,
 	"MOC_PREDEFS_CMD" : 
 	[
-		"C:/Users/alexa/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+		"/Users/aliceli/Library/Android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++",
 		"-dM",
 		"-E",
 		"-c",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp",
+		"/Users/aliceli/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp",
 		"--target=x86_64-none-linux-android28"
 	],
-	"MOC_PREDEFS_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0_init.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird_init.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_Flowathird_qml.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_qmlcache_loader.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathird_autogen/mocs_compilation.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_autogen/mocs_compilation.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/generated_qtquick3d_flowathird_qmltyperegistrations.cpp"
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0_init.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird_init.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_Flowathird_qml.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_qmlcache_loader.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathird_autogen/mocs_compilation.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_autogen/mocs_compilation.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/generated_qtquick3d_flowathird_qmltyperegistrations.cpp"
 	],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/CMakeFiles/Generated_QtQuick3D_Flowathirdplugin_init_autogen.dir/ParseCache.txt",
-	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/moc.exe",
-	"QT_UIC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/uic.exe",
+	"PARALLEL" : 11,
+	"PARSE_CACHE_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/CMakeFiles/Generated_QtQuick3D_Flowathirdplugin_init_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/aliceli/Qt/6.9.1/macos/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/aliceli/Qt/6.9.1/macos/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/CMakeFiles/Generated_QtQuick3D_Flowathirdplugin_init_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/CMakeFiles/Generated_QtQuick3D_Flowathirdplugin_init_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init.cpp",
+			"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_init.cpp",
 			"MU",
 			null
 		]
@@ -113,15 +112,15 @@
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : 
 	[
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0_init.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird_init.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_Flowathird_qml.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_qmlcache_loader.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathird_autogen/mocs_compilation.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_autogen/mocs_compilation.cpp",
-		"C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/generated_qtquick3d_flowathird_qmltyperegistrations.cpp"
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_Generated_QtQuick3D_Flowathird_raw_qml_0_init.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.qt/rcc/qrc_qmake_Generated_QtQuick3D_Flowathird_init.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_Flowathird_qml.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/.rcc/qmlcache/Generated_QtQuick3D_Flowathird_qmlcache_loader.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathird_autogen/mocs_compilation.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/Generated_QtQuick3D_Flowathirdplugin_autogen/mocs_compilation.cpp",
+		"/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/x86_64/Generated/QtQuick3D/Flowathird/generated_qtquick3d_flowathird_qmltyperegistrations.cpp"
 	],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : true,

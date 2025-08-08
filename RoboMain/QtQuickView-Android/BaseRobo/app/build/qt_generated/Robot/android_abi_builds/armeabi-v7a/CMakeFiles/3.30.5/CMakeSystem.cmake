@@ -1,9 +1,9 @@
-set(CMAKE_HOST_SYSTEM "Windows-10.0.22000")
-set(CMAKE_HOST_SYSTEM_NAME "Windows")
-set(CMAKE_HOST_SYSTEM_VERSION "10.0.22000")
-set(CMAKE_HOST_SYSTEM_PROCESSOR "AMD64")
+set(CMAKE_HOST_SYSTEM "Darwin-23.6.0")
+set(CMAKE_HOST_SYSTEM_NAME "Darwin")
+set(CMAKE_HOST_SYSTEM_VERSION "23.6.0")
+set(CMAKE_HOST_SYSTEM_PROCESSOR "arm64")
 
-include("C:/Qt/6.9.1/android_armv7/lib/cmake/Qt6/qt.toolchain.cmake")
+include("/Users/aliceli/Qt/6.9.1/android_armv7/lib/cmake/Qt6/qt.toolchain.cmake")
 
 set(CMAKE_SYSTEM "Android-1")
 set(CMAKE_SYSTEM_NAME "Android")

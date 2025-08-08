@@ -1,19 +1,19 @@
 <RCC>
   <qresource prefix="/qt-project.org/imports/QtQuick/Studio/Components/">
-    <file alias="ArcArrow.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/ArcArrow.qml</file>
-    <file alias="ArcItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/ArcItem.qml</file>
-    <file alias="BorderItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/BorderItem.qml</file>
-    <file alias="EllipseItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/EllipseItem.qml</file>
-    <file alias="FlipableItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/FlipableItem.qml</file>
-    <file alias="GroupItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/GroupItem.qml</file>
-    <file alias="PieItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/PieItem.qml</file>
-    <file alias="RectangleItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/RectangleItem.qml</file>
-    <file alias="RegularPolygonItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/RegularPolygonItem.qml</file>
-    <file alias="StarItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/StarItem.qml</file>
-    <file alias="StraightArrow.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/StraightArrow.qml</file>
-    <file alias="SvgPathItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/SvgPathItem.qml</file>
-    <file alias="TextItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/TextItem.qml</file>
-    <file alias="TriangleItem.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/TriangleItem.qml</file>
+    <file alias="ArcArrow.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/ArcArrow.qml</file>
+    <file alias="ArcItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/ArcItem.qml</file>
+    <file alias="BorderItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/BorderItem.qml</file>
+    <file alias="EllipseItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/EllipseItem.qml</file>
+    <file alias="FlipableItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/FlipableItem.qml</file>
+    <file alias="GroupItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/GroupItem.qml</file>
+    <file alias="PieItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/PieItem.qml</file>
+    <file alias="RectangleItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/RectangleItem.qml</file>
+    <file alias="RegularPolygonItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/RegularPolygonItem.qml</file>
+    <file alias="StarItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/StarItem.qml</file>
+    <file alias="StraightArrow.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/StraightArrow.qml</file>
+    <file alias="SvgPathItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/SvgPathItem.qml</file>
+    <file alias="TextItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/TextItem.qml</file>
+    <file alias="TriangleItem.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/components/TriangleItem.qml</file>
   </qresource>
 </RCC>
 

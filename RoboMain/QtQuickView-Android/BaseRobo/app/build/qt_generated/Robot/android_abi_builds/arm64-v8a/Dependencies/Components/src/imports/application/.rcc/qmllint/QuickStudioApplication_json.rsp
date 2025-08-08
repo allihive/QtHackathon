@@ -1,11 +1,11 @@
 --bare
 -I
-C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml
 -I
-C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml
 -I
-C:/Qt/6.9.1/android_arm64_v8a/qml
+/Users/aliceli/Qt/6.9.1/android_arm64_v8a/qml
 --resource
-C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc
 --json
-C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/QuickStudioApplication_qmllint.json
+/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/QuickStudioApplication_qmllint.json

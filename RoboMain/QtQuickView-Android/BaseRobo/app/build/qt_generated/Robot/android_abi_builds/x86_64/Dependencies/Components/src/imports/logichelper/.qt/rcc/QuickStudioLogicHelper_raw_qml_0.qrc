@@ -1,12 +1,12 @@
 <RCC>
   <qresource prefix="/qt-project.org/imports/QtQuick/Studio/LogicHelper/">
-    <file alias="BidirectionalBinding.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/BidirectionalBinding.qml</file>
-    <file alias="RangeMapper.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/RangeMapper.qml</file>
-    <file alias="MinMaxMapper.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/MinMaxMapper.qml</file>
-    <file alias="StringMapper.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/StringMapper.qml</file>
-    <file alias="OrOperator.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/OrOperator.qml</file>
-    <file alias="AndOperator.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/AndOperator.qml</file>
-    <file alias="NotOperator.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/NotOperator.qml</file>
+    <file alias="BidirectionalBinding.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/BidirectionalBinding.qml</file>
+    <file alias="RangeMapper.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/RangeMapper.qml</file>
+    <file alias="MinMaxMapper.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/MinMaxMapper.qml</file>
+    <file alias="StringMapper.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/StringMapper.qml</file>
+    <file alias="OrOperator.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/OrOperator.qml</file>
+    <file alias="AndOperator.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/AndOperator.qml</file>
+    <file alias="NotOperator.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/logichelper/NotOperator.qml</file>
   </qresource>
 </RCC>
 

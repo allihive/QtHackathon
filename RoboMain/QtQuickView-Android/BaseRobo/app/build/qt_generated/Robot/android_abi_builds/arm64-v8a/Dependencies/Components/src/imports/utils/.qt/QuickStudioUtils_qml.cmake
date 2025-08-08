@@ -1,13 +1,13 @@
 
 set(target "QuickStudioUtils")
-set(working_dir "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils")
+set(working_dir "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils")
 set(src_and_dest_list
-    "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonListModel.qml"
-    "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml/QtQuick/Studio/Utils/JsonListModel.qml"
-    "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonBackend.qml"
-    "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml/QtQuick/Studio/Utils/JsonBackend.qml"
-    "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml"
-    "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml/QtQuick/Studio/Utils/ChildListModel.qml"
+    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonListModel.qml"
+    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml/QtQuick/Studio/Utils/JsonListModel.qml"
+    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/JsonBackend.qml"
+    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml/QtQuick/Studio/Utils/JsonBackend.qml"
+    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml"
+    "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/qml/QtQuick/Studio/Utils/ChildListModel.qml"
 
 )
-set(timestamp_file "C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/utils/.qt/QuickStudioUtils_qml.txt")
+set(timestamp_file "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/arm64-v8a/Dependencies/Components/src/imports/utils/.qt/QuickStudioUtils_qml.txt")

@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/QtQuick/Studio/Utils">
-    <file alias="qmldir">C:/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml/QtQuick/Studio/Utils/qmldir</file>
+    <file alias="qmldir">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/BaseRobo/app/build/qt_generated/Robot/android_abi_builds/armeabi-v7a/qml/QtQuick/Studio/Utils/qmldir</file>
   </qresource>
 </RCC>
 

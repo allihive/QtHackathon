@@ -1,17 +1,17 @@
 <RCC>
   <qresource prefix="/qt/qml/Generated/QtQuick3D/Flowafirst__1_/">
-    <file alias="Flowafirst__1_.qml">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/Flowafirst__1_.qml</file>
-    <file alias="_importdata.json">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/_importdata.json</file>
-    <file alias="meshes/plane_019_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_019_mesh.mesh</file>
-    <file alias="meshes/plane_044_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_044_mesh.mesh</file>
-    <file alias="meshes/plane_002_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_002_mesh.mesh</file>
-    <file alias="meshes/plane_003_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_003_mesh.mesh</file>
-    <file alias="meshes/plane_046_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_046_mesh.mesh</file>
-    <file alias="meshes/plane_020_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_020_mesh.mesh</file>
-    <file alias="meshes/cylinder_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/cylinder_mesh.mesh</file>
-    <file alias="meshes/plane_007_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_007_mesh.mesh</file>
-    <file alias="meshes/plane_001_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_001_mesh.mesh</file>
-    <file alias="meshes/mesh_mesh.mesh">C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/mesh_mesh.mesh</file>
+    <file alias="Flowafirst__1_.qml">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/Flowafirst__1_.qml</file>
+    <file alias="_importdata.json">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/_importdata.json</file>
+    <file alias="meshes/plane_019_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_019_mesh.mesh</file>
+    <file alias="meshes/plane_044_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_044_mesh.mesh</file>
+    <file alias="meshes/plane_002_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_002_mesh.mesh</file>
+    <file alias="meshes/plane_003_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_003_mesh.mesh</file>
+    <file alias="meshes/plane_046_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_046_mesh.mesh</file>
+    <file alias="meshes/plane_020_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_020_mesh.mesh</file>
+    <file alias="meshes/cylinder_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/cylinder_mesh.mesh</file>
+    <file alias="meshes/plane_007_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_007_mesh.mesh</file>
+    <file alias="meshes/plane_001_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/plane_001_mesh.mesh</file>
+    <file alias="meshes/mesh_mesh.mesh">/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Generated/QtQuick3D/Flowafirst__1_/meshes/mesh_mesh.mesh</file>
   </qresource>
 </RCC>
 

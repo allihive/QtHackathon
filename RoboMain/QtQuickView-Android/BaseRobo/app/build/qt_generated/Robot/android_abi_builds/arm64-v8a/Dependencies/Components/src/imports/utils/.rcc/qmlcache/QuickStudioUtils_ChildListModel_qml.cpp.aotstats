@@ -6,13 +6,13 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 53113,
-                        "errorMessage": "Cannot load property modelName from (component in C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml)::modelName with type QString.",
+                        "durationMicroseconds": 1260,
+                        "errorMessage": "Cannot load property modelName from (component in /Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml)::modelName with type QString.",
                         "functionName": "onJsonObjectChanged",
                         "line": 50
                     }
                 ],
-                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml"
+                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Dependencies/Components/src/imports/utils/ChildListModel.qml"
             }
         ],
         "moduleId": "QtQuick.Studio.Utils(QuickStudioUtils)"

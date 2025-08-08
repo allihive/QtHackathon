@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.example.baserobo.app-mergeDebugResources-3:/layout/fragment_notifications.xml",
-        "source": "com.example.baserobo.app-main-6:/layout/fragment_notifications.xml"
+        "merged": "com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.example.baserobo.app-main-49:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.baserobo.app-mergeDebugResources-3:/layout/fragment_dashboard.xml",
-        "source": "com.example.baserobo.app-main-6:/layout/fragment_dashboard.xml"
+        "merged": "com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_notifications.xml",
+        "source": "com.example.baserobo.app-main-49:/layout/fragment_notifications.xml"
     },
     {
-        "merged": "com.example.baserobo.app-mergeDebugResources-3:/layout/activity_main.xml",
-        "source": "com.example.baserobo.app-main-6:/layout/activity_main.xml"
+        "merged": "com.example.baserobo.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.baserobo.app-main-49:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.baserobo.app-mergeDebugResources-3:/layout/fragment_home.xml",
-        "source": "com.example.baserobo.app-main-6:/layout/fragment_home.xml"
+        "merged": "com.example.baserobo.app-mergeDebugResources-46:/layout/fragment_dashboard.xml",
+        "source": "com.example.baserobo.app-main-49:/layout/fragment_dashboard.xml"
     }
 ]

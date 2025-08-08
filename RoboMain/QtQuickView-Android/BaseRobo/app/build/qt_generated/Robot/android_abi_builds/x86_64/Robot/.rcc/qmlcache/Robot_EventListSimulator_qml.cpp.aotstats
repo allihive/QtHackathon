@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 28198,
+                        "durationMicroseconds": 6601,
                         "errorMessage": "",
                         "functionName": "onTriggered",
                         "line": 12
@@ -14,13 +14,13 @@
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 7390,
+                        "durationMicroseconds": 3107,
                         "errorMessage": "",
                         "functionName": "onCompleted",
                         "line": 17
                     }
                 ],
-                "filePath": "C:/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListSimulator.qml"
+                "filePath": "/Users/aliceli/QtHackathon/RoboMain/QtQuickView-Android/Robot/Robot/EventListSimulator.qml"
             }
         ],
         "moduleId": "Robot(Robot)"
